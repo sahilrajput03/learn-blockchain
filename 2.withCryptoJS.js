@@ -1,5 +1,5 @@
 /**
- * Code copied from:
+ * Code Source
  * Github(13.2K*): https://github.com/guggero/blockchain-demo
  * Demo of original: https://guggero.github.io/blockchain-demo/#!/block
  */
