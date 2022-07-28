@@ -1,4 +1,9 @@
 const CryptoJS = require('crypto-js')
+/**
+ * Code copied from:
+ * https://github.com/guggero/blockchain-demo
+ * Demo of original: https://guggero.github.io/blockchain-demo/#!/block
+ */
 
 const vm = {
 	number: 1,

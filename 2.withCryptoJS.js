@@ -1,6 +1,9 @@
-// GITHUB 13.2K*: https://github.com/brix/crypto-js
-// DOCS (idk if this is real docs of above): https://cryptojs.gitbook.io/docs/
-// Inspiration: https://guggero.github.io/blockchain-demo/#!/block
+/**
+ * Code copied from:
+ * Github(13.2K*): https://github.com/guggero/blockchain-demo
+ * Demo of original: https://guggero.github.io/blockchain-demo/#!/block
+ */
+
 const CryptoJS = require('crypto-js')
 const {inputForBlockString, inputForBlockObject} = require('./blockData')
 
@@ -10,3 +13,4 @@ console.log('hash:', hash)
 
 const block = {...inputForBlockObject, hash}
 console.log('block', block)
+// DOCS (idk if this is real docs of above): https://cryptojs.gitbook.io/docs/
