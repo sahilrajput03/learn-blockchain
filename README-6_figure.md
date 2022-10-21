@@ -1,26 +1,5 @@
 # Readme
 
-## App Screenshots:
-
-**Withdraw dex to wallet:**
-
-![image](https://user-images.githubusercontent.com/31458531/195988811-825f0e03-6dc9-4ac9-aa5a-154925272cac.png)
-
-![image](https://user-images.githubusercontent.com/31458531/195988803-a6bc1bee-2f0b-4179-a3d4-aabf74bdb9cb.png)
-
-**Calling Deposit:**
-
-![image](https://user-images.githubusercontent.com/31458531/195989190-cc8f36fb-c92f-4b34-9478-476be09b7de4.png)
-
-![image](https://user-images.githubusercontent.com/31458531/195989216-c529d3cc-8b93-4181-a2b4-7de2b1af8688.png)
-
-**All orders:**
-
-The orders are ordered by best prices in buy (maximum price first) and sell sections (lease price first) thus execution of market orders will first perform those orders in same order.
-
-![image](https://user-images.githubusercontent.com/31458531/196035180-c114290f-9079-48ca-a6f3-78224566eb3e.png)
-
-
 ## TODO: ❤️ PENDING THINGS TO TRY OUT ❤️
 
 - Why safe math for sum and subtract? Hot to use those two implementation/techniques directly in the code without using SafeMath library?
