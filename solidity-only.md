@@ -1,5 +1,7 @@
 # Learn Solidity
 
+**TODO: Article: Technical Introduction to Events and Logs in Ethereum ~ Concensys:** [Click here](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
+
 [Source](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
 
 ![image](https://user-images.githubusercontent.com/31458531/197234942-d6297ef5-939a-461d-a55b-b476c79b48b4.png)
