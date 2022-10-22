@@ -85,4 +85,6 @@ Source of below question/answer: [Click here](https://ethereum.stackexchange.com
 
 ## what does the `indexed` keyword does?
 
+Source of below answer: [Click here](https://ethereum.stackexchange.com/a/8659/106687)
+
 ![image](https://user-images.githubusercontent.com/31458531/197341565-a4587252-c545-4ff5-b4f5-6411e2d0d123.png)
