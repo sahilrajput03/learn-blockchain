@@ -110,3 +110,14 @@ Source of below answer: [Click here](https://ethereum.stackexchange.com/a/8659/1
 Page in solidity docs: [Click here](https://docs.soliditylang.org/en/latest/genindex.html)
 
 ![image](https://user-images.githubusercontent.com/31458531/197353655-67404e31-c588-478e-a498-ec43c5af8d9d.png)
+
+## abi.encodePacked
+
+Stackoverflow answer: [Click here](https://ethereum.stackexchange.com/a/91835/106687)
+
+![image](https://user-images.githubusercontent.com/31458531/197357960-babd10ce-c755-46b8-85b6-a15054f06cbe.png)
+
+
+In docs: [Click here](https://docs.soliditylang.org/en/v0.8.11/abi-spec.html#non-standard-packed-mode)
+
+![image](https://user-images.githubusercontent.com/31458531/197358008-b91ae2a0-7ec7-4b7e-950f-e7d602136e44.png)
