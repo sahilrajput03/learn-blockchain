@@ -95,3 +95,7 @@ Source of below question/answer: [Click here](https://ethereum.stackexchange.com
 Source of below answer: [Click here](https://ethereum.stackexchange.com/a/8659/106687)
 
 ![image](https://user-images.githubusercontent.com/31458531/197341565-a4587252-c545-4ff5-b4f5-6411e2d0d123.png)
+
+## create one smart contract from another smart contract
+
+![image](https://user-images.githubusercontent.com/31458531/197342027-48b2307c-55e1-40dd-bd50-18d294113343.png)
