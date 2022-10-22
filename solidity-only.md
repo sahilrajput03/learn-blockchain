@@ -99,3 +99,9 @@ Source of below answer: [Click here](https://ethereum.stackexchange.com/a/8659/1
 ## create one smart contract from another smart contract
 
 ![image](https://user-images.githubusercontent.com/31458531/197342027-48b2307c-55e1-40dd-bd50-18d294113343.png)
+
+## In solidity docs you can search for any keyword that is used in solidity language by navigating to this page
+
+Page in solidity docs: [Click here](https://docs.soliditylang.org/en/latest/genindex.html)
+
+![image](https://user-images.githubusercontent.com/31458531/197353655-67404e31-c588-478e-a498-ec43c5af8d9d.png)
