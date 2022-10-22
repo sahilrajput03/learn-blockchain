@@ -79,7 +79,12 @@ Source of below image: [Click here](https://ethereum.stackexchange.com/a/63253/1
 
 ![image](https://user-images.githubusercontent.com/31458531/197252368-955a169b-25d3-4aeb-9a5f-9eea6974847d.png)
 
-## events are stored on blockchain? tldr;  yes(all events are stored on stored and can be accessed by clients) and **no(becoz no contract can event data emitted {not even the contract which emitted it})**
+## Events saves gas coz we can avoid saving data to storaage of contract
+
+![image](https://user-images.githubusercontent.com/31458531/197341657-4ec70f77-def0-4f9a-bbc7-f287a5eb2e7b.png)
+
+
+## Events are stored on blockchain? tldr;  yes(all events are stored on stored and can be accessed by clients) and **no(becoz no contract can event data emitted {not even the contract which emitted it})**
 
 Source of below question/answer: [Click here](https://ethereum.stackexchange.com/a/84490/106687)
 
