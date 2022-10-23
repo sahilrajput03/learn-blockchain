@@ -1,4 +1,17 @@
+## TODO
+
+- Read this logbook article: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/#bytes) and make notes, test cases for it (also you can refer the small notes seciton I made from this in hardcopy NotesBook2 of solidty).
+
+
 # Learn Solidity
+
+**TODO: Article: Technical Introduction to Events and Logs in Ethereum ~ Concensys:** [Click here](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
+
+**Aliases:**
+
+- `uint` and `int` are aliases for `uint256` and `int256`, respectively. [Source](https://docs.soliditylang.org/en/develop/types.html#integers)
+- `ufixed` and `fixed` are aliases for `ufixed128x18` and `fixed128x18`, respectively. [Source](https://docs.soliditylang.org/en/develop/types.html#fixed-point-numbers)
+- Before (Prior to) version 0.8.0, `byte` used to be an alias for `bytes1`. [Source](https://docs.soliditylang.org/en/develop/types.html#fixed-size-byte-arrays)
 
 [Source](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
 
@@ -76,3 +89,48 @@ SCP Article: [Click here](https://solidity-by-example.org/data-locations/)
 Source of below image: [Click here](https://ethereum.stackexchange.com/a/63253/106687)
 
 ![image](https://user-images.githubusercontent.com/31458531/197252368-955a169b-25d3-4aeb-9a5f-9eea6974847d.png)
+
+## Events saves gas coz we can avoid saving data to storaage of contract
+
+![image](https://user-images.githubusercontent.com/31458531/197341657-4ec70f77-def0-4f9a-bbc7-f287a5eb2e7b.png)
+
+
+## Events are stored on blockchain? tldr;  yes(all events are stored on stored and can be accessed by clients) and **no(becoz no contract can event data emitted {not even the contract which emitted it})**
+
+Source of below question/answer: [Click here](https://ethereum.stackexchange.com/a/84490/106687)
+
+![image](https://user-images.githubusercontent.com/31458531/197341428-df6f5bda-1774-4200-b744-1bb05965df5a.png)
+
+## what does the `indexed` keyword does?
+
+Source of below answer: [Click here](https://ethereum.stackexchange.com/a/8659/106687)
+
+![image](https://user-images.githubusercontent.com/31458531/197341565-a4587252-c545-4ff5-b4f5-6411e2d0d123.png)
+
+## create one smart contract from another smart contract
+
+![image](https://user-images.githubusercontent.com/31458531/197342027-48b2307c-55e1-40dd-bd50-18d294113343.png)
+
+## In solidity docs you can search for any keyword that is used in solidity language by navigating to this page
+
+Page in solidity docs: [Click here](https://docs.soliditylang.org/en/latest/genindex.html)
+
+![image](https://user-images.githubusercontent.com/31458531/197353655-67404e31-c588-478e-a498-ec43c5af8d9d.png)
+
+## abi.encodePacked
+
+Stackoverflow answer: [Click here](https://ethereum.stackexchange.com/a/91835/106687)
+
+![image](https://user-images.githubusercontent.com/31458531/197357960-babd10ce-c755-46b8-85b6-a15054f06cbe.png)
+
+
+In docs: [Click here](https://docs.soliditylang.org/en/v0.8.11/abi-spec.html#non-standard-packed-mode)
+
+![image](https://user-images.githubusercontent.com/31458531/197383579-608e14b8-d8f2-48f9-aa2e-9316d453d319.png)
+
+
+## How does keccak functio works?
+
+Source: [Click here](https://ethereum.stackexchange.com/q/11572/106687)
+
+![image](https://user-images.githubusercontent.com/31458531/197383771-faf058a8-8138-45c3-89d7-b34d60d595d3.png)
