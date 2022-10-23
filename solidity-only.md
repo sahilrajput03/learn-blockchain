@@ -146,6 +146,11 @@ Source: [Click here](https://docs.soliditylang.org/en/develop/types.html#fixed-s
 
 ## learn data types of solidity
 
+### bytes32 vs. string
+
+- https://ethereum.stackexchange.com/questions/11770/what-is-the-difference-between-bytes-and-bytes32
+- https://ethereum.stackexchange.com/questions/11556/use-string-type-or-bytes32
+
 **READ Todo:** LogRocket Article: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/)
 
 Understanding solidity data types from Oreily:
@@ -166,9 +171,3 @@ Source: Master blockchain pdf book (1st edition).
 
 - Mastering Blockchain Programming with Solidity - Jitendra Chittoda (Rs. 443 Kindle Edition)
      The book is based on ethereum and truffle basis. 
-
-
-## bytes32 vs. string
-
-- https://ethereum.stackexchange.com/questions/11770/what-is-the-difference-between-bytes-and-bytes32
-- https://ethereum.stackexchange.com/questions/11556/use-string-type-or-bytes32
