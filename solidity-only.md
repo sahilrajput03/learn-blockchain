@@ -157,7 +157,7 @@ There is no operator supported directly on bytes, but sometimes you might need t
 
 ## POS and DPOS
 
-Source: Master blockchain book (1st edition).
+Source: Master blockchain pdf book (1st edition).
 
 ![image](https://user-images.githubusercontent.com/31458531/197386567-b9cf9704-ae91-447e-8d26-2da0823671e2.png)
 
