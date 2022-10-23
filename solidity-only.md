@@ -122,3 +122,9 @@ In docs: [Click here](https://docs.soliditylang.org/en/v0.8.11/abi-spec.html#non
 
 ![image](https://user-images.githubusercontent.com/31458531/197383579-608e14b8-d8f2-48f9-aa2e-9316d453d319.png)
 
+
+## How does keccak functio works?
+
+Source: [Click here](https://ethereum.stackexchange.com/q/11572/106687)
+
+![image](https://user-images.githubusercontent.com/31458531/197383771-faf058a8-8138-45c3-89d7-b34d60d595d3.png)
