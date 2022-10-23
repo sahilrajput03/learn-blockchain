@@ -166,3 +166,9 @@ Source: Master blockchain pdf book (1st edition).
 
 - Mastering Blockchain Programming with Solidity - Jitendra Chittoda (Rs. 443 Kindle Edition)
      The book is based on ethereum and truffle basis. 
+
+
+## bytes32 vs. string
+
+- https://ethereum.stackexchange.com/questions/11770/what-is-the-difference-between-bytes-and-bytes32
+- https://ethereum.stackexchange.com/questions/11556/use-string-type-or-bytes32
