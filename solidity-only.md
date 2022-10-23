@@ -138,10 +138,11 @@ Source: [Click here](https://ethereum.stackexchange.com/q/11572/106687)
 
 ## bytes and string
 
-Source: Click here
+Source: [Click here](https://docs.soliditylang.org/en/develop/types.html#fixed-size-byte-arrays)
 
 ![image](https://user-images.githubusercontent.com/31458531/197385909-50fd70e7-34a1-4051-9fe0-0629f69759ed.png)
 
+![image](https://user-images.githubusercontent.com/31458531/197387225-49d9dc8e-28d6-44a2-b008-6020f0b07842.png)
 
 ## learn data types of solidity
 
