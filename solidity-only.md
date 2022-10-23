@@ -157,6 +157,9 @@ All bytes type variables are used to store binary data (0,1 format) stores in he
 
 ![image](https://user-images.githubusercontent.com/31458531/197400867-f9fe4dbb-ebe2-4779-b3b0-29d14b7121bc.png)
 
+![image](https://user-images.githubusercontent.com/31458531/197401074-26e8bfac-67e3-4bbc-a4fc-b692991d48ff.png)
+
+
 **READ Todo:** LogRocket Article: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/)
 
 Understanding solidity data types from Oreily:
