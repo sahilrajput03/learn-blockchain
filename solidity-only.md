@@ -11,7 +11,7 @@
 
 - `uint` and `int` are aliases for `uint256` and `int256`, respectively. [Source](https://docs.soliditylang.org/en/develop/types.html#integers)
 - `ufixed` and `fixed` are aliases for `ufixed128x18` and `fixed128x18`, respectively. [Source](https://docs.soliditylang.org/en/develop/types.html#fixed-point-numbers)
-- Before (Prior to) version 0.8.0, `byte` used to be an alias for `bytes1`.
+- Before (Prior to) version 0.8.0, `byte` used to be an alias for `bytes1`. [Source](https://docs.soliditylang.org/en/develop/types.html#fixed-size-byte-arrays)
 
 [Source](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
 
