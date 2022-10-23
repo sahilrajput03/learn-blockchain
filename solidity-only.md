@@ -134,3 +134,32 @@ In docs: [Click here](https://docs.soliditylang.org/en/v0.8.11/abi-spec.html#non
 Source: [Click here](https://ethereum.stackexchange.com/q/11572/106687)
 
 ![image](https://user-images.githubusercontent.com/31458531/197383771-faf058a8-8138-45c3-89d7-b34d60d595d3.png)
+
+
+## bytes and string
+
+Source: Click here
+
+![image](https://user-images.githubusercontent.com/31458531/197385909-50fd70e7-34a1-4051-9fe0-0629f69759ed.png)
+
+
+## learn data types of solidity
+
+**READ Todo:** LogRocket Article: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/)
+
+Understanding solidity data types from Oreily:
+
+The bytes data type in Solidity is a dynamically sized byte[] array. As it's dynamic sized, the length of this type can grow and shrink. The bytes type is a bit different from bytes1 , bytes2, ... bytes31, and bytes32 types (stepping 1), as bytes stores tightly packed data, whereas bytesN does not. 
+
+The bytes type variables are initialized with an empty string. If you check with the Remix IDE, it will return 0x, meaning a byte[] array with a length of 0.
+
+There is no operator supported directly on bytes, but sometimes you might need to compare the two bytes variables. To check equality, you can compute the keccak256 hash of both the variables and perform a comparison, like that shown in following code example: ...
+
+## POS and DPOS
+
+![image](https://user-images.githubusercontent.com/31458531/197386567-b9cf9704-ae91-447e-8d26-2da0823671e2.png)
+
+## Books
+
+- Mastering Blockchain Programming with Solidity - Jitendra Chittoda (Rs. 443 Kindle Edition)
+     The book is based on ethereum and truffle basis. 
