@@ -151,6 +151,11 @@ Source: [Click here](https://docs.soliditylang.org/en/develop/types.html#fixed-s
 - https://ethereum.stackexchange.com/questions/11770/what-is-the-difference-between-bytes-and-bytes32
 - https://ethereum.stackexchange.com/questions/11556/use-string-type-or-bytes32
 
+All bytes type variables are used to store binary data (0,1 format) stores in hex format: [Source](https://en.wikipedia.org/wiki/ASCII#Printable_characters)
+
+![image](https://user-images.githubusercontent.com/31458531/197400410-72dc6c72-ad42-43a3-8991-ffe9225f0699.png)
+
+
 **READ Todo:** LogRocket Article: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/)
 
 Understanding solidity data types from Oreily:
