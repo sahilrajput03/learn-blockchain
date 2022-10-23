@@ -155,6 +155,8 @@ All bytes type variables are used to store binary data (0,1 format) stores in he
 
 ![image](https://user-images.githubusercontent.com/31458531/197400410-72dc6c72-ad42-43a3-8991-ffe9225f0699.png)
 
+![image](https://user-images.githubusercontent.com/31458531/197400576-a30a554e-9ff8-4525-8ce8-1f0a89fb9cec.png)
+
 
 **READ Todo:** LogRocket Article: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/)
 
