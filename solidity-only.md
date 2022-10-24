@@ -230,3 +230,23 @@ contract StringEqualityComparisonGasExample {
     }
 }
 ```
+
+## business applications of blockchain
+
+Source: [Article](https://balticassist.com/5-applications-for-blockchain-in-the-business-world-6/)
+
+Blockchain technology consists of a distributed ledger, like a Google Document that is accessible by those who have permission to a given blockchain network. Each change one makes to the ledger must be approved by the many computers – known as nodes – that comprise the chain. So, while the blockchain ledger has the benefit of being accessible from virtually any place across the globe, it also offers a level of security that traditional alternatives often do not. The downside, as of now, is that the blockchain is not infinitely scalable, so specific processes – logging and processing Visa’s daily transactions, for example – aren’t fit for blockchain adoption. 
+
+### 5 Applications for Blockchain in the Business World
+
+Source: [Click here](https://balticassist.com/5-applications-for-blockchain-in-the-business-world-6/)
+
+1. Supply Chain Management: Supply chains are the organizational and logistical systems by which goods are transported from a factory, extractor, or grower to the consumer, and they are typically complicated systems that can span the globe. Most of these systems are comprised of independent databases whose records are kept centrally. This can make acquiring verifiable information about shipments and processes nearly impossible for the person tasked with supply chain management, as opacity and fragmentation can disrupt any unity they hope to install throughout the links in the supply chain. This is where blockchain incorporation could be of excellent service. The blockchain is a single, decentralized ledger, meaning that all parties on a supply chain could log their information into that ledger once they have the proper permission.
+
+2. Incorporating Regulators More Seamlessly: From insurance to lending and government, regulators abound. As of now, cooperating with regulatory agencies is a hassle. Audits and processes which require a business to virtually halt their operations and sift through rooms-worth of files to appease regulatory agents are an owner’s nightmare, but fortunately, the blockchain holds the promise of a better way.
+
+3. Improved Record Keeping/Sharing: Have you ever actually tried to go to your local records hall and acquire information? If you’re not a journalist or lawyer, there’s a good chance that the answer is ‘no’. Good for you, because current systems of large-scale recordkeeping are nightmarish in most cases, and nonexistent in others. If a system could be digitized and secured along the blockchain, records requests would be a breeze, and municipalities and corporations could save money by eschewing physical space, employees, and systems that are operational dinosaurs.
+
+4. Voting: The blockchain can provide a means by which votes are issued securely, with that vote being tied to a person’s unique identification metadata. Such a system would streamline the process and ensure that democratic systems aren’t existing in theory only, but are put into practice in a way that reflects the geographic and financial constraints that most people are subject to.
+
+5. Financial Management: This is perhaps the industry with the most significant promise for blockchain incorporation. We’ve already seen how cryptocurrencies can impact the financial world as an investment and speculative currency, but the blockchain – the technology upon which cryptos are made possible – could better protect user data, streamline transactions (especially across borders), and create an unalterable ledger which is more effective in preventing fraud and malfeasance.
