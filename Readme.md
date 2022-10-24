@@ -5,8 +5,8 @@
 3. [Readme solidityOnly](./solidity-only.md)
 
 **Books:**
-- Mastering Blockchain Programming with Solidity - Jitendra Chittoda (Rs. 443 Kindle Edition)
-     The book is based on ethereum and truffle basis. 
+- TODO: Buy Mastering Blockchain Programming with Solidity - Jitendra Chittoda (Rs. 443 Kindle Edition): The book is based on ethereum and truffle basis. 
+- Mastering Blockchain Edition2 ~ Imran_Bashir
 
 **Scams in web3:**
 - https://hackmamba.io/blog/2022/06/top-web3-scams-and-how-they-work/
