@@ -5,7 +5,7 @@
 3. [Readme solidityOnly](./solidity-only.md)
 
 **Books:**
-- Mastering Blockchain Edition2 ~ Imran_Bashir
+- Mastering Blockchain Edition2 ~ Imran Bashir
 - TODO: Buy Mastering Blockchain Programming with Solidity - Jitendra Chittoda (Rs. 443 Kindle Edition): The book is based on ethereum and truffle basis. 
 
 **Scams in web3:**
