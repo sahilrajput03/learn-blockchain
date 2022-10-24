@@ -184,10 +184,6 @@ Source: Master blockchain pdf book (1st edition).
 
 ![image](https://user-images.githubusercontent.com/31458531/197386567-b9cf9704-ae91-447e-8d26-2da0823671e2.png)
 
-## Books
-
-- Mastering Blockchain Programming with Solidity - Jitendra Chittoda (Rs. 443 Kindle Edition)
-     The book is based on ethereum and truffle basis. 
 ## Good article on comparing hashes (but Author has not acknowledged the point that hashes always have same length ~Sahil)
 
 *Article: [Click here](https://fravoll.github.io/solidity-patterns/string_equality_comparison.html)*
