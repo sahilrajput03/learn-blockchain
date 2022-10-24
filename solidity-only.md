@@ -302,6 +302,8 @@ Source: [Click here](https://geth.ethereum.org/docs/interface/private-network)
 
 ![image](https://user-images.githubusercontent.com/31458531/197634013-bec2a6d3-d3a6-4bf3-b776-3c8dd358d541.png)
 
+NOTE: To encode the signer addresses in `extradata`, concatenate 32 zero bytes **(~Sahil: `0x`+64 zeroes <AllDesiredSignerAddressesHere<withoutPrefixOf"0x">><130_zeores_here>)**, all signer addresses and 65 further zero bytes.
+
 ![image](https://user-images.githubusercontent.com/31458531/197633736-3f70e1d4-fd86-4330-b7f9-9cf9a1cebecd.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/197634172-3997f853-c7f3-4966-9963-7352b1d5156c.png)
