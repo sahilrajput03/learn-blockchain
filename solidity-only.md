@@ -250,3 +250,6 @@ Source: [Click here](https://balticassist.com/5-applications-for-blockchain-in-t
 4. Voting: The blockchain can provide a means by which votes are issued securely, with that vote being tied to a person’s unique identification metadata. Such a system would streamline the process and ensure that democratic systems aren’t existing in theory only, but are put into practice in a way that reflects the geographic and financial constraints that most people are subject to.
 
 5. Financial Management: This is perhaps the industry with the most significant promise for blockchain incorporation. We’ve already seen how cryptocurrencies can impact the financial world as an investment and speculative currency, but the blockchain – the technology upon which cryptos are made possible – could better protect user data, streamline transactions (especially across borders), and create an unalterable ledger which is more effective in preventing fraud and malfeasance.
+
+
+Article 2: Beyond Bitcoin: How Blockchain is Improving Business Operations: [Click here](https://www.businessnewsdaily.com/10414-blockchain-business-uses.html)
