@@ -275,3 +275,9 @@ Source: [Click here](https://ethereum.stackexchange.com/a/102036/106687)
 ## Using geth
 
 ![image](https://user-images.githubusercontent.com/31458531/197609932-0bc894d6-3518-460c-8ffd-178bd365f492.png)
+
+Source: [Click here](https://blog.ethereum.org/2021/03/03/geth-v1-10-0)
+
+![image](https://user-images.githubusercontent.com/31458531/197616037-fb2e01f7-ab8a-4b16-9664-cb61f2503e43.png)
+
+![image](https://user-images.githubusercontent.com/31458531/197616272-0f3f91cd-ab29-49fd-a978-2577641eeeea.png)
