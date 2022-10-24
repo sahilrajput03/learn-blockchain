@@ -271,3 +271,7 @@ Article 4: 15 Applications for Blockchain Technology: [Click here](https://www.f
 Source: [Click here](https://ethereum.stackexchange.com/a/102036/106687)
 
 ![image](https://user-images.githubusercontent.com/31458531/197589316-a61b384f-62ab-49ff-b3ac-f38cb1742b4b.png)
+
+## Using geth
+
+![image](https://user-images.githubusercontent.com/31458531/197609932-0bc894d6-3518-460c-8ffd-178bd365f492.png)
