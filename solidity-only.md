@@ -153,7 +153,7 @@ Source: [Click here](https://docs.soliditylang.org/en/develop/types.html#fixed-s
 - https://ethereum.stackexchange.com/questions/11770/what-is-the-difference-between-bytes-and-bytes32
 - https://ethereum.stackexchange.com/questions/11556/use-string-type-or-bytes32
 
-All bytes type variables are used to store binary data (0,1 format) stores in hex format: [Source @ Wikipedia](https://en.wikipedia.org/wiki/ASCII#Printable_characters)
+All bytes type variables are used to store binary data (0,1 format) stores in hex format: [Source @ Ascii - Wikipedia](https://en.wikipedia.org/wiki/ASCII#Printable_characters)
 
 ![image](https://user-images.githubusercontent.com/31458531/197400804-b78e0b0b-a711-4a75-8ccb-bb62be22e96d.png)
 
