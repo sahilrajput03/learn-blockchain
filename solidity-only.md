@@ -167,6 +167,11 @@ All bytes type variables are used to store binary data (0,1 format) stores in he
 
 ![image](https://user-images.githubusercontent.com/31458531/197401074-26e8bfac-67e3-4bbc-a4fc-b692991d48ff.png)
 
+Source of below: [Click here](https://ethereum.stackexchange.com/a/11557/106687)
+
+![image](https://user-images.githubusercontent.com/31458531/197590665-6580395c-c57d-4b76-b4fc-a20d8e41654a.png)
+
+
 
 **READ Todo:** LogRocket Article: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/)
 
