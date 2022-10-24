@@ -282,6 +282,10 @@ Source: [Click here](https://blog.ethereum.org/2021/03/03/geth-v1-10-0)
 
 ![image](https://user-images.githubusercontent.com/31458531/197616272-0f3f91cd-ab29-49fd-a978-2577641eeeea.png)
 
-Source: [Click here](https://geth.ethereum.org/docs/getting-started#send-ether-to-another-account)
+Source if below img: [Click here](https://geth.ethereum.org/docs/getting-started#send-ether-to-another-account)
 
 ![image](https://user-images.githubusercontent.com/31458531/197622184-8a348fef-3759-4129-a4e5-00d086a0716f.png)
+
+Source of below img: [Click here](https://geth.ethereum.org/docs/getting-started#using-curl)
+
+![image](https://user-images.githubusercontent.com/31458531/197623005-83e63e8a-282c-4b2b-b2a3-96ca554e0645.png)
