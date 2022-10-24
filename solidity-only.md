@@ -6,6 +6,7 @@
 
 **Quick Links:**
 - **[fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns), 2.4k\*, [Site](https://fravoll.github.io/solidity-patterns/)**
+    - String Equality Comparision: [Article](https://fravoll.github.io/solidity-patterns/string_equality_comparison.html)
 
 **Aliases:**
 
