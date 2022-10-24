@@ -2,7 +2,7 @@
 
 1. [Readme from KryptoBirdz](./README-kryptobirdz.md)
 2. [Readme from 6 figure course](./README-6_figure.md)
-3. [Readme solidityOnly](./solidity.only.md)
+3. [Readme solidityOnly](./solidity-only.md)
 
 **Books:**
 - Mastering Blockchain Programming with Solidity - Jitendra Chittoda (Rs. 443 Kindle Edition)
