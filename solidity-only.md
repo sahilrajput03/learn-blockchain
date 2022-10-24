@@ -7,6 +7,7 @@
 - Article: Technical Introduction to Events and Logs in Ethereum ~ Concensys: [Click here](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
 
 **Quick Links:**
+- Ethereum Developer Tutorials Official: [Click here](https://ethereum.org/en/developers/tutorials/)
 - **[fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns), 2.4k\*, [Site](https://fravoll.github.io/solidity-patterns/)**
     - CHAPTERS: AccessRestriction, ChecksEffectsInteraction, EmergencyStop, EternalStorage, GuardCheck, MemoryArrayBuilding Oracle ProxyDelegate, PullOverPush, Randomness, SecureEtherTransfer, StateMachine, StringEqualityComparison and TightVariablePacking.
     - String Equality Comparision: [Article](https://fravoll.github.io/solidity-patterns/string_equality_comparison.html)
