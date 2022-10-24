@@ -257,3 +257,9 @@ Article 2: Beyond Bitcoin: How Blockchain is Improving Business Operations: [Cli
 Article 3: Forbes Article: [Click here](https://www.forbes.com/sites/forbesfinancecouncil/2019/09/27/business-applications-for-blockchain/?sh=3a8844a67f90)
 
 Article 4: 15 Applications for Blockchain Technology: [Click here](https://www.fool.com/investing/stock-market/market-sectors/financials/blockchain-stocks/blockchain-applications/)
+
+## bytes32 to string coversion in solidity?
+
+Source: [Click here](https://ethereum.stackexchange.com/a/102036/106687)
+
+![image](https://user-images.githubusercontent.com/31458531/197589316-a61b384f-62ab-49ff-b3ac-f38cb1742b4b.png)
