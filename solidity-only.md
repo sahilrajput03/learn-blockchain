@@ -255,3 +255,5 @@ Source: [Click here](https://balticassist.com/5-applications-for-blockchain-in-t
 Article 2: Beyond Bitcoin: How Blockchain is Improving Business Operations: [Click here](https://www.businessnewsdaily.com/10414-blockchain-business-uses.html)
 
 Article 3: Forbes Article: [Click here](https://www.forbes.com/sites/forbesfinancecouncil/2019/09/27/business-applications-for-blockchain/?sh=3a8844a67f90)
+
+Article 4: 15 Applications for Blockchain Technology: [Click here](https://www.fool.com/investing/stock-market/market-sectors/financials/blockchain-stocks/blockchain-applications/)
