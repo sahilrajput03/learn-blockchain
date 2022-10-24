@@ -1,10 +1,8 @@
-## TODO
-
-- Read this logbook article: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/#bytes) and make notes, test cases for it (also you can refer the small notes seciton I made from this in hardcopy NotesBook2 of solidty).
-
 # Learn Solidity
 
-**TODO: Article: Technical Introduction to Events and Logs in Ethereum ~ Concensys:** [Click here](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
+**Todo:**
+- Read this logbook article: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/#bytes) and make notes, test cases for it (also you can refer the small notes seciton I made from this in hardcopy NotesBook2 of solidty).
+- Article: Technical Introduction to Events and Logs in Ethereum ~ Concensys: [Click here](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
 
 **Quick Links:**
 - **[fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns), 2.4k\*, [Site](https://fravoll.github.io/solidity-patterns/)**
