@@ -306,6 +306,6 @@ NOTE: To encode the signer addresses in `extradata`, concatenate 32 zero bytes *
 
 ![image](https://user-images.githubusercontent.com/31458531/197633736-3f70e1d4-fd86-4330-b7f9-9cf9a1cebecd.png)
 
-![image](https://user-images.githubusercontent.com/31458531/197634172-3997f853-c7f3-4966-9963-7352b1d5156c.png)
+![image](https://user-images.githubusercontent.com/31458531/197636042-e81b2d14-72e0-400f-8366-1aa2728ed222.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/197634468-bd99d6bb-8760-4052-8988-b031e801f93e.png)
