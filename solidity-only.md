@@ -291,3 +291,9 @@ Source of below img: [Click here](https://geth.ethereum.org/docs/getting-started
 ![image](https://user-images.githubusercontent.com/31458531/197623005-83e63e8a-282c-4b2b-b2a3-96ca554e0645.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/197624988-d32197d4-d9e0-4918-8b47-3e1fdbe2ee32.png)
+
+- **Reading: Runing Private Networks with geth**
+
+Source: [Click here](https://geth.ethereum.org/docs/interface/private-network)
+
+![image](https://user-images.githubusercontent.com/31458531/197625740-14fe75c1-4ae3-434b-9603-7a623f32e9be.png)
