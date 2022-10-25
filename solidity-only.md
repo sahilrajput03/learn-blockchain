@@ -309,3 +309,7 @@ NOTE: To encode the signer addresses in `extradata`, concatenate 32 zero bytes *
 ![image](https://user-images.githubusercontent.com/31458531/197636042-e81b2d14-72e0-400f-8366-1aa2728ed222.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/197634468-bd99d6bb-8760-4052-8988-b031e801f93e.png)
+
+## nested mapping structs can't be recreated IMO ~Sahil
+
+![image](https://user-images.githubusercontent.com/31458531/197771427-7429a99a-8de7-46ee-968c-d837a844605b.png)
