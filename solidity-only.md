@@ -322,3 +322,15 @@ NOTE: To encode the signer addresses in `extradata`, concatenate 32 zero bytes *
 let votes = await openVoting.votes(0, 0)
 expect(votes.eq(1)).to.be.true
 ```
+
+## returning 2d array from a function in solidity
+
+Why to bother to return 2d arrays? Becoz in solidity we can not return mapping type from functions thus we must need to return 2d arrays form of data from the functions.
+
+Source of below: [Click here](https://ethereum.stackexchange.com/a/121362/106687)
+
+![image](https://user-images.githubusercontent.com/31458531/197799436-90f6cabb-57e4-43ff-bddd-c2bb368e1ab6.png)
+
+
+Source of below: [Click here](https://ethereum.stackexchange.com/a/58422/106687)
+![image](https://user-images.githubusercontent.com/31458531/197798250-b3ec54f3-10e1-46d7-8cb1-d692a10f2c09.png)
