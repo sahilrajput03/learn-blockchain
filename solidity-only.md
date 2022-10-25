@@ -313,3 +313,12 @@ NOTE: To encode the signer addresses in `extradata`, concatenate 32 zero bytes *
 ## nested mapping structs can't be recreated IMO ~Sahil
 
 ![image](https://user-images.githubusercontent.com/31458531/197771427-7429a99a-8de7-46ee-968c-d837a844605b.png)
+
+## you can get values of nested mappings as well (Tested ~Sahil)
+
+![image](https://user-images.githubusercontent.com/31458531/197788915-a8e5499e-8fb4-4525-99c5-65a87feffb0f.png)
+
+```js
+let votes = await openVoting.votes(0, 0)
+expect(votes.eq(1)).to.be.true
+```
