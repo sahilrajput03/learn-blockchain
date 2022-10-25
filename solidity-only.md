@@ -1,6 +1,7 @@
 # Learn Solidity
 
 **Todo:**
+- **Checkout Development Tutorials from ethereum itself:** [Click here](https://ethereum.org/en/developers/tutorials/)
 - **Learn virtual and override in solidity code:** [Click here](https://ethereum.stackexchange.com/questions/78572/what-are-the-virtual-and-override-keywords-in-solidity)
 - The ultimate guide to data types in Solidity: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/)
 - Read this logbook article: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/#bytes) and make notes, test cases for it (also you can refer the small notes seciton I made from this in hardcopy NotesBook2 of solidty).
