@@ -371,3 +371,9 @@ Inspiratin: [1](https://www.youtube.com/watch?v=IlKAqzU92Jc), [2](https://www.yo
 ## verifiying smart contract (i.e., pushing plain solidity code to the etherscan ~sahil)
 
 ![image](https://user-images.githubusercontent.com/31458531/198113714-4223a516-e319-415a-8c19-ab32eca0d80c.png)
+
+## we can simply execute the read and write functions of the verified smart contracts directly from etherscan itself
+
+![image](https://user-images.githubusercontent.com/31458531/198114274-db576043-b166-450e-b689-aab3a3139388.png)
+
+![image](https://user-images.githubusercontent.com/31458531/198114328-8ddb1f57-5a06-4392-b9ea-4d0c3380be2e.png)
