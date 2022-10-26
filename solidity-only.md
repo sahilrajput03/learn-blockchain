@@ -349,3 +349,9 @@ Source of below: [Click here](https://ethereum.stackexchange.com/a/58422/106687)
 Source: [Wikipedia](https://en.wikipedia.org/wiki/ConsenSys)
 
 ![image](https://user-images.githubusercontent.com/31458531/198041573-398de173-e5b3-49aa-aa1d-37e98a982a8c.png)
+
+## eth.build is so amazing
+
+Inspiratin: [1](https://www.youtube.com/watch?v=IlKAqzU92Jc), [2](https://www.youtube.com/watch?v=QJ010l-pBpE)
+
+![image](https://user-images.githubusercontent.com/31458531/198086572-82b0fb38-1421-4e00-8d2c-dcc51613600d.png)
