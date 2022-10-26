@@ -1,5 +1,15 @@
 # Learn Solidity
 
+**Applied to JOBS:**
+- @cryptojobs:
+- ===========
+- Panoptic (Senior Web3 Full-Stack Engineer)
+- 3six9 Innovation (Senior Smart Contract Engineer (Solidity))
+- Wetez - Blockchain Development Engineer
+- Senior Solidity Developer - Panoptic
+- Blockchain Engineer - (Portal Fantasy)
+
+
 **Todo:**
 - **Checkout Development Tutorials from ethereum itself:** [Click here](https://ethereum.org/en/developers/tutorials/)
 - **Learn virtual and override in solidity code:** [Click here](https://ethereum.stackexchange.com/questions/78572/what-are-the-virtual-and-override-keywords-in-solidity)
