@@ -11,6 +11,8 @@
 
 
 **Todo:**
+- article1: The great eth2 renaming: [Click here](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming)
+- article2: Beacon Chain: [Click here](https://ethereum.org/en/upgrades/beacon-chain/)
 - **Checkout Development Tutorials from ethereum itself:** [Click here](https://ethereum.org/en/developers/tutorials/)
 - **Learn virtual and override in solidity code:** [Click here](https://ethereum.stackexchange.com/questions/78572/what-are-the-virtual-and-override-keywords-in-solidity)
 - The ultimate guide to data types in Solidity: [Click here](https://blog.logrocket.com/ultimate-guide-data-types-solidity/)
