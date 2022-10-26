@@ -367,3 +367,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/ConsenSys)
 Inspiratin: [1](https://www.youtube.com/watch?v=IlKAqzU92Jc), [2](https://www.youtube.com/watch?v=QJ010l-pBpE)
 
 ![image](https://user-images.githubusercontent.com/31458531/198086572-82b0fb38-1421-4e00-8d2c-dcc51613600d.png)
+
+## verifiying smart contract (i.e., pushing plain solidity code to the etherscan ~sahil)
+
+![image](https://user-images.githubusercontent.com/31458531/198113714-4223a516-e319-415a-8c19-ab32eca0d80c.png)
