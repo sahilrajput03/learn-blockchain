@@ -5,6 +5,7 @@
     - Upgradable Smart Contracts - UUPS Proxy tutorial - [Web3Club](https://www.youtube.com/watch?v=bPOOvyVpI9U)
     - Upgradable NFT Smart Contract | UUPS Proxy, OpenZeppelin: [Click here](https://www.youtube.com/watch?v=tIHrNhr_OOQ)
 - fallback function and external payable functions in solidity: [Click here for SO's Answer](https://stackoverflow.com/questions/69178874/solidity-v0-6-0-fallback-functions-what-are-they-needed-for)
+- Start watching blockchain interview form CodeEater: [Click here - Timestamped](https://youtu.be/gMtMva2FgAw?t=483)
 - Crypto Hack Articles & News:
     - Web3 Projects Have Lost More Than $2 Billion in Hacks in 2022: [Click here](https://www.gokhshteinmedia.com/article/web3-projects-have-lost-more-than-2b-in-hacks-in-2022)
     - The Nine Largest Crypto Hacks in 2022: [Click here](https://blockworks.co/the-nine-largest-crypto-hacks-in-2022/)
