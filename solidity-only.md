@@ -9,8 +9,10 @@
 - Senior Solidity Developer - Panoptic
 - Blockchain Engineer - (Portal Fantasy)
 
-
 **Todo:**
+- Upgradable Smart Contracts:
+    - [ethereum.org](https://ethereum.org/en/developers/docs/smart-contracts/upgrading/)
+    - [openzeppelin](https://docs.openzeppelin.com/learn/upgrading-smart-contracts)
 - What is ENS? Ethereum Name Service Explained (Updated 2022): [Click here](https://cryptopotato.com/what-is-ens-ethereum-name-service/)
 - article1: The great eth2 renaming: [Click here](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming)
 - article2: Beacon Chain: [Click here](https://ethereum.org/en/upgrades/beacon-chain/)
