@@ -34,6 +34,7 @@
 - Article: Technical Introduction to Events and Logs in Ethereum ~ Concensys: [Click here](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
 
 **Quick Links:**
+- Third web Audit Link: [Click here](https://gateway.thirdweb.dev/ipfs/QmWfueeKQrggrVQNjWkF4sYJECp56vNnuAXCPVecFFKz2j/)
 - Ethereum Developer Tutorials Official: [Click here](https://ethereum.org/en/developers/tutorials/)
 - **[fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns), 2.4k\*, [Site](https://fravoll.github.io/solidity-patterns/)**
     - CHAPTERS: AccessRestriction, ChecksEffectsInteraction, EmergencyStop, EternalStorage, GuardCheck, MemoryArrayBuilding Oracle ProxyDelegate, PullOverPush, Randomness, SecureEtherTransfer, StateMachine, StringEqualityComparison and TightVariablePacking.
@@ -444,3 +445,12 @@ Abstract contracts:
 ## `interface` ?
 
 ![image](https://user-images.githubusercontent.com/31458531/198376129-77d62c39-8ab2-4720-ab69-c13a7a1bb395.png)
+
+## ens
+
+![image](https://user-images.githubusercontent.com/31458531/198388066-17ca5aeb-5cde-4a7e-9e04-69a0c3f537f6.png)
+
+
+Source of below article: [Click here](https://medium.com/the-ethereum-name-service/step-by-step-guide-to-importing-a-dns-domain-name-to-ens-d2d15feb03e8)
+
+![image](https://user-images.githubusercontent.com/31458531/198387887-e8b444ac-5e4c-44a3-a0cc-9fe8348155f5.png)
