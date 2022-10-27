@@ -11,6 +11,7 @@
 
 
 **Todo:**
+- What is ENS? Ethereum Name Service Explained (Updated 2022): [Click here](https://cryptopotato.com/what-is-ens-ethereum-name-service/)
 - article1: The great eth2 renaming: [Click here](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming)
 - article2: Beacon Chain: [Click here](https://ethereum.org/en/upgrades/beacon-chain/)
 - **Checkout Development Tutorials from ethereum itself:** [Click here](https://ethereum.org/en/developers/tutorials/)
@@ -377,3 +378,8 @@ Inspiratin: [1](https://www.youtube.com/watch?v=IlKAqzU92Jc), [2](https://www.yo
 ![image](https://user-images.githubusercontent.com/31458531/198114274-db576043-b166-450e-b689-aab3a3139388.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/198114328-8ddb1f57-5a06-4392-b9ea-4d0c3380be2e.png)
+
+
+## hacks in web3
+
+- 
