@@ -393,3 +393,20 @@ Inspiratin: [1](https://www.youtube.com/watch?v=IlKAqzU92Jc), [2](https://www.yo
 ## Verifying your contract on etherscan
 
 ![image](https://user-images.githubusercontent.com/31458531/198303157-bac5bc26-b1b1-483c-869f-dd8218ae08d0.png)
+
+Now simpy copy pasted the code of my contract there:
+
+Tip:
+- Constructor arguments are automatically fetched for this contract by etherscan from the first transaction data I guess as one person suggested to get it [manually here on stackoverflow](https://ethereum.stackexchange.com/a/37649/106687).
+
+![image](https://user-images.githubusercontent.com/31458531/198306951-17bdff33-7763-48a6-917c-5555be18601f.png)
+
+And your source code is verified now:
+
+![image](https://user-images.githubusercontent.com/31458531/198307330-9441179b-a91a-4674-a538-9fd1ec3d8a6b.png)
+
+Also, now you have green tick on your **contract tab** on the etherscan (Yikes):
+
+![image](https://user-images.githubusercontent.com/31458531/198307439-bb15449f-4796-44fe-b0d7-2d9c8d70124b.png)
+
+![image](https://user-images.githubusercontent.com/31458531/198307622-a024da85-516e-4efa-a6b9-a0b3489c60b7.png)
