@@ -382,6 +382,10 @@ Inspiratin: [1](https://www.youtube.com/watch?v=IlKAqzU92Jc), [2](https://www.yo
 ![image](https://user-images.githubusercontent.com/31458531/198114328-8ddb1f57-5a06-4392-b9ea-4d0c3380be2e.png)
 
 
-## hacks in web3
+## hacks of all time of web3
 
-- 
+.
+
+## How do we listen to events live in web3
+
+![image](https://user-images.githubusercontent.com/31458531/198271405-ff1ff2b9-5289-49cb-a0cd-ea99592472e7.png)
