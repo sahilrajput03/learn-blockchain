@@ -422,10 +422,12 @@ Also, now you have green tick on your **contract tab** on the etherscan (Yikes):
 
 ![image](https://user-images.githubusercontent.com/31458531/198307622-a024da85-516e-4efa-a6b9-a0b3489c60b7.png)
 
-## What are absract contracts?
+## What are `absract contract`
+
+**Another good example and different contextual usage of [abstract contract is here](https://www.geeksforgeeks.org/solidity-abstract-contract/).**
 
 ![image](https://user-images.githubusercontent.com/31458531/198375417-ff0f494a-3a60-4425-b131-4510ca4b51ed.png)
 
-## interface? How is it different from `abstract contract` or `contract`? TODO: FIND OUT..
+## `interface` ?
 
 ![image](https://user-images.githubusercontent.com/31458531/198376129-77d62c39-8ab2-4720-ab69-c13a7a1bb395.png)
