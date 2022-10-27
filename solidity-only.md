@@ -389,3 +389,7 @@ Inspiratin: [1](https://www.youtube.com/watch?v=IlKAqzU92Jc), [2](https://www.yo
 ## How do we listen to events live in web3
 
 ![image](https://user-images.githubusercontent.com/31458531/198271405-ff1ff2b9-5289-49cb-a0cd-ea99592472e7.png)
+
+## Verifying your contract on etherscan
+
+![image](https://user-images.githubusercontent.com/31458531/198303157-bac5bc26-b1b1-483c-869f-dd8218ae08d0.png)
