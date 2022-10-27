@@ -410,3 +410,7 @@ Also, now you have green tick on your **contract tab** on the etherscan (Yikes):
 ![image](https://user-images.githubusercontent.com/31458531/198307439-bb15449f-4796-44fe-b0d7-2d9c8d70124b.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/198307622-a024da85-516e-4efa-a6b9-a0b3489c60b7.png)
+
+## fallback function and external payable functions in solidity
+
+https://stackoverflow.com/questions/69178874/solidity-v0-6-0-fallback-functions-what-are-they-needed-for
