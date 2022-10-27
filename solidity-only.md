@@ -424,6 +424,19 @@ Also, now you have green tick on your **contract tab** on the etherscan (Yikes):
 
 ## What are `absract contract`
 
+Soure of below points: [Click here](https://www.geeksforgeeks.org/solidity-abstract-contract/)
+
+Abstract contracts are contracts:
+- that have at least one function without its implementation
+- you don’t provide arguments for all of the base contract constructors
+- we don’t intend to create a contract directly we can consider the contract to be abstract
+- instance of an abstract cannot be created
+
+Abstract contracts:
+- are used as base contracts so that the child contract can inherit and utilize its functions
+- defines the structure of the contract and any derived contract inherited from it should provide an implementation for the incomplete functions
+
+
 **Another good example and different contextual usage of [abstract contract is here](https://www.geeksforgeeks.org/solidity-abstract-contract/).**
 
 ![image](https://user-images.githubusercontent.com/31458531/198375417-ff0f494a-3a60-4425-b131-4510ca4b51ed.png)
