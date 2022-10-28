@@ -23,6 +23,7 @@
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- Deploy smart contracts on hyperledger: [Click here](https://youtu.be/uFwkLlZQEGY?t=1084)
 - What are NFT drops? [Click here](https://bitscrunch.com/blogs/guide-to-nft-drops)
 - Upgradable Smart Contracts:
     - [ethereum.org](https://ethereum.org/en/developers/docs/smart-contracts/upgrading/)
