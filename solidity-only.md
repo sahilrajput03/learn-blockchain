@@ -21,6 +21,7 @@
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- What are NFT drops? [Click here](https://bitscrunch.com/blogs/guide-to-nft-drops)
 - Upgradable Smart Contracts:
     - [ethereum.org](https://ethereum.org/en/developers/docs/smart-contracts/upgrading/)
     - [openzeppelin](https://docs.openzeppelin.com/learn/upgrading-smart-contracts)
