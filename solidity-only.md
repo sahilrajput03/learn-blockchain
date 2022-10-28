@@ -469,6 +469,6 @@ Add to your `hardhat.config.js`: `require("@nomiclabs/hardhat-etherscan");` and 
 
 NOTE: For these verify scripts to work I need to replace the addresses manaully for now. (todo: Since the config-goerli.js uses ecma exports its difficult to import file as regular nodejs module).
 
-![image](https://user-images.githubusercontent.com/31458531/198518750-6e8cb9d6-2881-4d7b-b76e-64330173162b.png)
+![image](https://user-images.githubusercontent.com/31458531/198521476-57b8b466-21e7-476c-a0f6-e6e1318ef21a.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/198521136-15723b44-bd42-49bc-8347-c8ecaa1c2529.png)
