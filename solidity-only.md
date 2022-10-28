@@ -464,3 +464,7 @@ https://forum.openzeppelin.com/t/how-to-verify-with-hardhat-or-truffle-a-smart-c
 Add to your `hardhat.config.js`: `require("@nomiclabs/hardhat-etherscan");` and configure the etherscan api key in the same file as well.  And running below command:
 
 `npx hardhat verify --network mainnet DEPLOYED_CONTRACT_ADDRESS "Constructor argument 1"`
+
+## successful in verifying contract of kbmarket using hardhat with cli command only
+
+![image](https://user-images.githubusercontent.com/31458531/198518750-6e8cb9d6-2881-4d7b-b76e-64330173162b.png)
