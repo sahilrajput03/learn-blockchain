@@ -454,3 +454,13 @@ Abstract contracts:
 Source of below article: [Click here](https://medium.com/the-ethereum-name-service/step-by-step-guide-to-importing-a-dns-domain-name-to-ens-d2d15feb03e8)
 
 ![image](https://user-images.githubusercontent.com/31458531/198387887-e8b444ac-5e4c-44a3-a0cc-9fe8348155f5.png)
+
+## verifying smart contracts with hardhat
+
+https://forum.openzeppelin.com/t/how-to-flatten-and-verify-a-smart-contract-using-openzeppelin-contracts/1119
+
+https://forum.openzeppelin.com/t/how-to-verify-with-hardhat-or-truffle-a-smart-contract-using-openzeppelin-contracts/4119
+
+Add to your `hardhat.config.js`: `require("@nomiclabs/hardhat-etherscan");` and configure the etherscan api key in the same file as well.  And running below command:
+
+`npx hardhat verify --network mainnet DEPLOYED_CONTRACT_ADDRESS "Constructor argument 1"`
