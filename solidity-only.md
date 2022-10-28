@@ -1,6 +1,7 @@
 # Learn Solidity
 
-**Applied to JOBS:**
+**Quick Links:**
+- Third web: [Contracts](https://thirdweb.com/contracts), [Release](https://portal.thirdweb.com/release)
 - Upgradable Smart contracts:
     - Upgradable Smart Contracts - UUPS Proxy tutorial - [Web3Club](https://www.youtube.com/watch?v=bPOOvyVpI9U)
     - Upgradable NFT Smart Contract | UUPS Proxy, OpenZeppelin: [Click here](https://www.youtube.com/watch?v=tIHrNhr_OOQ)
@@ -12,6 +13,7 @@
     - The Nine Largest Crypto Hacks in 2022: [Click here](https://blockworks.co/the-nine-largest-crypto-hacks-in-2022/)
     - Over $718 Million Lost to Web 3 Hacks in Q2 2022: Report: [Click here](https://cryptopotato.com/over-718-million-lost-to-web-3-hacks-in-q2-2022-report/)
     - Binance BNB Burn Explained: How Much is Burnt and When?: [Click here](https://cryptopotato.com/binance-bnb-burn-explained-how-much-is-burnt-and-when/)
+**Applied to JOBS:**
 - @cryptojobs:
 - ===========
 - Panoptic (Senior Web3 Full-Stack Engineer)
