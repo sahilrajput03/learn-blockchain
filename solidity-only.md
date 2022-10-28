@@ -349,6 +349,10 @@ NOTE: To encode the signer addresses in `extradata`, concatenate 32 zero bytes *
 
 ![image](https://user-images.githubusercontent.com/31458531/198625150-8bc5bd8d-e14e-414c-a728-9bd5c00b8f12.png)
 
+but our balance is zero by default:
+
+![image](https://user-images.githubusercontent.com/31458531/198626939-2da055fb-9bbc-4e7b-a170-68b75048b149.png)
+
 
 ## nested mapping structs can't be recreated IMO ~Sahil
 
