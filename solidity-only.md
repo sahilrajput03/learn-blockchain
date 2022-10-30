@@ -52,6 +52,17 @@
 - `ufixed` and `fixed` are aliases for `ufixed128x18` and `fixed128x18`, respectively. [Source](https://docs.soliditylang.org/en/develop/types.html#fixed-point-numbers)
 - Before (Prior to) version 0.8.0, `byte` used to be an alias for `bytes1`. [Source](https://docs.soliditylang.org/en/develop/types.html#fixed-size-byte-arrays)
 
+## Save gas
+
+-  use unchecked for anything that doesn't need underflow/overflow checking [src](https://ethereum.stackexchange.com/questions/113221/what-is-the-purpose-of-unchecked-in-solidity):
+
+![image](https://user-images.githubusercontent.com/31458531/198870161-ca80c88d-1191-425c-9ab9-699c54e0bbcf.png)
+ 
+
+![image](https://user-images.githubusercontent.com/31458531/198870101-8f637c9e-4434-4969-8d58-f009996816be.png)
+
+```
+
 ## Blockchain Helping hand companies
 
 - [Sway](https://github.com/FuelLabs/sway), [Docs](https://fuellabs.github.io/sway/v0.16.2/index.html)
