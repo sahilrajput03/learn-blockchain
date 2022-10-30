@@ -500,3 +500,7 @@ NOTE: For these verify scripts to work I need to replace the addresses manaully 
 ![image](https://user-images.githubusercontent.com/31458531/198521476-57b8b466-21e7-476c-a0f6-e6e1318ef21a.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/198521136-15723b44-bd42-49bc-8347-c8ecaa1c2529.png)
+
+## virtual, override, abstract keywords in solidity
+
+[Click here](https://ethereum.stackexchange.com/a/78573/106687)
