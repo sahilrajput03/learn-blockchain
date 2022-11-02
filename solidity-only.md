@@ -507,3 +507,14 @@ NOTE: For these verify scripts to work I need to replace the addresses manaully 
 ## virtual, override, abstract keywords in solidity
 
 [Click here](https://ethereum.stackexchange.com/a/78573/106687)
+
+## Binance Coin
+
+Binance Token: [Click here](https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52#code)
+
+![image](https://user-images.githubusercontent.com/31458531/199565233-e585fe4a-adae-42e3-9928-527c6e339f8d.png)
+
+
+Binance Contract: [Click here](https://etherscan.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52)
+
+![image](https://user-images.githubusercontent.com/31458531/199565141-ed8b82a9-d2ba-4c14-8694-ce018db4a7ac.png)
