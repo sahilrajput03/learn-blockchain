@@ -236,7 +236,8 @@ There is no operator supported directly on bytes, but sometimes you might need t
 
 ## POS and DPOS
 
-Source: Master blockchain pdf book (1st edition).
+Source: M
+aster blockchain pdf book (1st edition).
 
 ![image](https://user-images.githubusercontent.com/31458531/197386567-b9cf9704-ae91-447e-8d26-2da0823671e2.png)
 
@@ -518,3 +519,10 @@ Binance Token: [Click here](https://etherscan.io/token/0xB8c77482e45F1F44dE1745F
 Binance Contract: [Click here](https://etherscan.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52)
 
 ![image](https://user-images.githubusercontent.com/31458531/199565141-ed8b82a9-d2ba-4c14-8694-ce018db4a7ac.png)
+
+## Shoudl I use SafeERC20 all the time?
+
+- Making sure I understand how SafeERC20 works: [Click here]([url](https://forum.openzeppelin.com/t/making-sure-i-understand-how-safeerc20-works/2940))
+    - SafeERC20, TokenTimelock, wrappers: [Click here]([url](https://forum.openzeppelin.com/t/safeerc20-tokentimelock-wrappers/396/2))
+
+![image](https://user-images.githubusercontent.com/31458531/199567496-00f21eb8-f86a-478d-81be-7628de0a1202.png)
