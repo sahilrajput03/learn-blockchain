@@ -25,6 +25,7 @@
 
 **Todo:**
 - **Research this tweet for efficient gas usage for minting tokens by cygaar on twitter:** [Click here](https://twitter.com/cygaar_dev/status/1586409465699479552)
+    - Check `Gas and Complexity` section: [Click here](https://eips.ethereum.org/EIPS/eip-721)
 - Review this tweet thoroughtly: [Click here](https://twitter.com/cygaar_dev/status/1585071495646425089?s=20&t=PmqXaLQtI7yMxNTykhJTHA)
 - Deploy smart contracts on hyperledger: [Click here](https://youtu.be/uFwkLlZQEGY?t=1084)
 - What are NFT drops? [Click here](https://bitscrunch.com/blogs/guide-to-nft-drops)
