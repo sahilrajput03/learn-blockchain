@@ -2,6 +2,7 @@
 
 **Quick Links:**
 - **Commentary on ERC20 by Sahil** [Click here](https://gist.github.com/sahilrajput03/9e596c7d645f7d5d40e93baae71982c7)
+- **Commentary on ERC721 by Sahil** [Click here](https://gist.github.com/sahilrajput03/3d0536338bf52c2ecd0c7f1177b2df9d)
 - Third web: [Contracts](https://thirdweb.com/contracts), [Release](https://portal.thirdweb.com/release)
 - Upgradable Smart contracts:
     - Upgradable Smart Contracts - UUPS Proxy tutorial - [Web3Club](https://www.youtube.com/watch?v=bPOOvyVpI9U)
