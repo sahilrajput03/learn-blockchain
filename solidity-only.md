@@ -44,6 +44,7 @@
 - Article: Technical Introduction to Events and Logs in Ethereum ~ Concensys: [Click here](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
 
 **Quick Links:**
+- Amazing article on mempools by Vincent: [Click here](https://cyberstrategy1.medium.com/key-to-your-financial-success-understanding-the-mempool-in-ethereum-5aae80c2bf6b)
 - Third web Audit Link: [Click here](https://gateway.thirdweb.dev/ipfs/QmWfueeKQrggrVQNjWkF4sYJECp56vNnuAXCPVecFFKz2j/)
 - Ethereum Developer Tutorials Official: [Click here](https://ethereum.org/en/developers/tutorials/)
 - **[fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns), 2.4k\*, [Site](https://fravoll.github.io/solidity-patterns/)**
