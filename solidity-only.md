@@ -538,3 +538,14 @@ Binance Contract: [Click here](https://etherscan.io/address/0xB8c77482e45F1F44dE
 
 ![image](https://user-images.githubusercontent.com/31458531/199677831-b4df593e-7370-40c1-bb3b-0cc89041eed7.png)
 
+## virtual, override
+
+Function Overriding: [Click here](https://docs.soliditylang.org/en/v0.6.0/contracts.html#index-17)
+
+![image](https://user-images.githubusercontent.com/31458531/199718312-db06ad06-db98-4ba5-a4d4-bf2781f6d379.png)
+
+![image](https://user-images.githubusercontent.com/31458531/199718624-21e9dda1-d46f-400f-85b9-17f2632d738c.png)
+
+Modifier Overloading: [Click here](https://docs.soliditylang.org/en/v0.6.0/contracts.html#index-18)
+
+![image](https://user-images.githubusercontent.com/31458531/199719524-74ade257-57f9-4fc5-b94a-6d968e8befbc.png)
