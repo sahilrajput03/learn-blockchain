@@ -1,5 +1,13 @@
 # Learn Solidity
 
+**project ideas:**
+- (fungible/non-fungible tokens?): ecommerce app
+- (fungible/non-fungible tokens?): social media app
+- (non-fungible tokens standard): car resale business so we can have nfts of cars (using chasi id)
+- (non-fungible tokens standard): concert seats (becoz seats are very unique in themselves)
+
+you can sort now..
+
 **Quick Links:**
 - **Commentary on ERC20 by Sahil** [Click here](https://gist.github.com/sahilrajput03/9e596c7d645f7d5d40e93baae71982c7)
 - **Commentary on ERC721 by Sahil** [Click here](https://gist.github.com/sahilrajput03/3d0536338bf52c2ecd0c7f1177b2df9d)
