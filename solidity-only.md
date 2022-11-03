@@ -530,3 +530,7 @@ Binance Contract: [Click here](https://etherscan.io/address/0xB8c77482e45F1F44dE
     - SafeERC20, TokenTimelock, wrappers: [Click here]([url](https://forum.openzeppelin.com/t/safeerc20-tokentimelock-wrappers/396/2))
 
 ![image](https://user-images.githubusercontent.com/31458531/199567496-00f21eb8-f86a-478d-81be-7628de0a1202.png)
+
+## Check if address belongs to a contract or just simple account
+
+![image](https://user-images.githubusercontent.com/31458531/199677831-b4df593e-7370-40c1-bb3b-0cc89041eed7.png)
