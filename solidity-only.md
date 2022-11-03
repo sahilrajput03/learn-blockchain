@@ -613,7 +613,9 @@ Source: [Click here](https://www.youtube.com/watch?v=x4sNXHLP9qY)@ youtube by Ma
 
 - SFT's are (simply NFT's which) can be minted quantity of greater than one
 - Multiple SFT's can have same mint address and can still be saved on blockchain
-- They possess the properties of both NFT's and FT's.
+- They possess the properties of both NFT's and FT's. Source: [Click here](https://www.youtube.com/watch?v=HtnBwfIEFg0)
     - Consider you have two coupon's which expire on different dates so before they any one of them gets expired you can think of them as fungible token becoz you can exchange them without losing value. But say when one is expired after that one is not valid anymore whereas the other one is valid so there's the NFT property on these tokens.
+    - A concert ticket can also be considered as SFT, the FT component comes from the fact that if we were to exchange ticket technically would bring the same value in the fact that both of us would attend the concert, but the NFT component would be that our seats would be different e.g., one seat could be closer to the scene whereas the other one does not.
+    - Another example is like say your character has a collection of items, then instead of minting them NFT token for each of those items you can bundle them together and it would be represented as single SFT that could be fraction if needed. One of the item from the bundle could be resole or traded.
 
 Example: ![image](https://user-images.githubusercontent.com/31458531/199783828-d0d64c47-0b19-4f38-9255-87a84e232b8c.png)
