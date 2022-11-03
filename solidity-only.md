@@ -4,7 +4,7 @@
 - (fungible/non-fungible tokens?): ecommerce app
 - (fungible/non-fungible tokens?): social media app
 - (non-fungible tokens standard): car resale business so we can have nfts of cars (using chasi id)
-- (non-fungible tokens standard): concert seats (becoz seats are very unique in themselves)
+- (non-fungible tokens standard): concert seats (becoz seats are unique in themselves as they are not interchangeable with each other)
 
 you can sort now..
 
