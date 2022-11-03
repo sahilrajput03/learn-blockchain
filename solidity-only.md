@@ -559,3 +559,9 @@ Source: [Etherscan | Gas Tracker](https://etherscan.io/gastracker)
 ![image](https://user-images.githubusercontent.com/31458531/199732107-57fece3a-8582-426a-bd9c-5bb68ceca24d.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/199732233-b07ac09b-efda-4d25-a156-5ce34559ef72.png)
+
+## Interesting chart on etherscan
+
+Source: [Click here](https://etherscan.io/chart/ethersupplygrowth)
+
+![image](https://user-images.githubusercontent.com/31458531/199735738-1b66b3d0-069a-4e08-95b2-b9f9c09016f3.png)
