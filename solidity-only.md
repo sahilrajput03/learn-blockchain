@@ -565,3 +565,7 @@ Source: [Etherscan | Gas Tracker](https://etherscan.io/gastracker)
 Source: [Click here](https://etherscan.io/chart/ethersupplygrowth)
 
 ![image](https://user-images.githubusercontent.com/31458531/199735738-1b66b3d0-069a-4e08-95b2-b9f9c09016f3.png)
+
+Average Gas Price Cahrt: [Click here](https://etherscan.io/chart/gasprice)
+
+![image](https://user-images.githubusercontent.com/31458531/199736990-1bc2158b-e297-4d7e-aeaa-07c86e596742.png)
