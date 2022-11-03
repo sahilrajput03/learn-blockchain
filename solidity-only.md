@@ -613,5 +613,7 @@ Source: [Click here](https://www.youtube.com/watch?v=x4sNXHLP9qY)@ youtube by Ma
 
 - SFT's are (simply NFT's which) can be minted quantity of greater than one
 - Multiple SFT's can have same mint address and can still be saved on blockchain
+- They possess the properties of both NFT's and FT's.
+    - Consider you have two coupon's which expire on different dates so before they any one of them gets expired you can think of them as fungible token becoz you can exchange them without losing value. But say when one is expired after that one is not valid anymore whereas the other one is valid so there's the NFT property on these tokens.
 
 Example: ![image](https://user-images.githubusercontent.com/31458531/199783828-d0d64c47-0b19-4f38-9255-87a84e232b8c.png)
