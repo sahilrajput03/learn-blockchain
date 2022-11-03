@@ -585,3 +585,7 @@ Average Txn Charges: [Click here](https://etherscan.io/chart/avg-txfee-usd)
 DEX Activity: [Click here](https://etherscan.io/stat/dextracker)
 
 ![image](https://user-images.githubusercontent.com/31458531/199738645-1d175e76-0298-492d-aec3-14d3d66b8a5a.png)
+
+## moralis.io
+
+Source: https://youtu.be/v_L6oA8BpG0
