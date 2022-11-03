@@ -569,3 +569,7 @@ Source: [Click here](https://etherscan.io/chart/ethersupplygrowth)
 Average Gas Price Cahrt: [Click here](https://etherscan.io/chart/gasprice)
 
 ![image](https://user-images.githubusercontent.com/31458531/199736990-1bc2158b-e297-4d7e-aeaa-07c86e596742.png)
+
+Active Ethereum Addresses: [Click here](https://etherscan.io/chart/active-address)
+
+![image](https://user-images.githubusercontent.com/31458531/199737329-450bdc77-fa0f-4b03-8b85-d01d01d56178.png)
