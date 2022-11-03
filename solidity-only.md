@@ -606,3 +606,8 @@ tldr; Moralis is like firebase but for blockchain.
 It is just the issue number in the eips repo on github.
 
 ![image](https://user-images.githubusercontent.com/31458531/199754168-51638caf-b796-4ad3-887e-5144f9ea7bcc.png)
+
+## SFT's Semi-Fungible Tokens
+
+- SFT's can be minted greater than one
+- Multiple SFT's can have same mint address and can still be saved on blockchain
