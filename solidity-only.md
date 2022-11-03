@@ -609,5 +609,8 @@ It is just the issue number in the eips repo on github.
 
 ## SFT's Semi-Fungible Tokens
 
+Source: [Click here](https://www.youtube.com/watch?v=x4sNXHLP9qY)
+
 - SFT's can be minted greater than one
 - Multiple SFT's can have same mint address and can still be saved on blockchain
+
