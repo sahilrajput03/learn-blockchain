@@ -614,3 +614,4 @@ Source: [Click here](https://www.youtube.com/watch?v=x4sNXHLP9qY)@ youtube by Ma
 - SFT's are (simply NFT's which) can be minted quantity of greater than one
 - Multiple SFT's can have same mint address and can still be saved on blockchain
 
+Example: ![image](https://user-images.githubusercontent.com/31458531/199783828-d0d64c47-0b19-4f38-9255-87a84e232b8c.png)
