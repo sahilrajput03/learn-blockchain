@@ -9,7 +9,7 @@
 you can sort now..
 
 **Quick Links:**
-- **Token Comparisons:** [Click here](https://gist.github.com/sahilrajput03/b43608c241ac41d7c736b5fcd4a3f11f)
+- **Commentary on Token Comparisons:** [Click here](https://gist.github.com/sahilrajput03/b43608c241ac41d7c736b5fcd4a3f11f)
 - **Commentary on ERC20 by Sahil** [Click here](https://gist.github.com/sahilrajput03/9e596c7d645f7d5d40e93baae71982c7)
 - **Commentary on ERC721 by Sahil** [Click here](https://gist.github.com/sahilrajput03/3d0536338bf52c2ecd0c7f1177b2df9d)
 - **Ethereum Smart Contract Security Best Practices:** [Click here](https://consensys.github.io/smart-contract-best-practices/)
