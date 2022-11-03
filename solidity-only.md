@@ -573,3 +573,7 @@ Average Gas Price Cahrt: [Click here](https://etherscan.io/chart/gasprice)
 Active Ethereum Addresses: [Click here](https://etherscan.io/chart/active-address)
 
 ![image](https://user-images.githubusercontent.com/31458531/199737329-450bdc77-fa0f-4b03-8b85-d01d01d56178.png)
+
+Average Txn Charges: [Click here](https://etherscan.io/chart/avg-txfee-usd)
+
+![image](https://user-images.githubusercontent.com/31458531/199738022-b6ab18d3-076e-4993-ab0a-fe4dca8401f1.png)
