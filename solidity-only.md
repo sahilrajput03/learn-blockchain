@@ -599,3 +599,9 @@ DEX Activity: [Click here](https://etherscan.io/stat/dextracker)
 Source: https://youtu.be/v_L6oA8BpG0
 
 tldr; Moralis is like firebase but for blockchain.
+
+## what does 20, 721, 1155 means on ERC token standars ERC20, ERC721, ERC1155?
+
+It is just the issue number in the eips repo on github.
+
+![image](https://user-images.githubusercontent.com/31458531/199754168-51638caf-b796-4ad3-887e-5144f9ea7bcc.png)
