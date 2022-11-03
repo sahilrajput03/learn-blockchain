@@ -577,3 +577,8 @@ Active Ethereum Addresses: [Click here](https://etherscan.io/chart/active-addres
 Average Txn Charges: [Click here](https://etherscan.io/chart/avg-txfee-usd)
 
 ![image](https://user-images.githubusercontent.com/31458531/199738022-b6ab18d3-076e-4993-ab0a-fe4dca8401f1.png)
+
+
+DEX Activity: [Click here](https://etherscan.io/stat/dextracker)
+
+![image](https://user-images.githubusercontent.com/31458531/199738645-1d175e76-0298-492d-aec3-14d3d66b8a5a.png)
