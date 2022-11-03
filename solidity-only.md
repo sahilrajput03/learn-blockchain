@@ -611,6 +611,6 @@ It is just the issue number in the eips repo on github.
 
 Source: [Click here](https://www.youtube.com/watch?v=x4sNXHLP9qY)@ youtube by MagicEden (i.e., https://magiceden.io/)
 
-- SFT's can be minted greater than one
+- SFT's are (simply NFT's which) can be minted quantity of greater than one
 - Multiple SFT's can have same mint address and can still be saved on blockchain
 
