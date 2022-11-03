@@ -589,3 +589,5 @@ DEX Activity: [Click here](https://etherscan.io/stat/dextracker)
 ## moralis.io
 
 Source: https://youtu.be/v_L6oA8BpG0
+
+tldr; Moralis is like firebase but for blockchain.
