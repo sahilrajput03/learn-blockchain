@@ -27,6 +27,7 @@
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- Opensea documentation (asked if reffered by Piyush Khatri | Suffescom Solutions, Mohali): [Click here](https://docs.opensea.io/docs)
 - Lean How Gas is Priced: [Click here](https://www.blocknative.com/blog/ethdenver-2022-recap-how-everything-and-nothing-changes-with-gas), [@youtube](https://www.youtube.com/watch?v=K-9Si3w-AhE)
 - **Research this tweet for efficient gas usage for minting tokens by cygaar on twitter:** [Click here](https://twitter.com/cygaar_dev/status/1586409465699479552)
     - Check `Gas and Complexity` section: [Click here](https://eips.ethereum.org/EIPS/eip-721)
