@@ -626,8 +626,7 @@ Example: ![image](https://user-images.githubusercontent.com/31458531/199783828-d
 ## Making thing
 
 - **Value:**
-
-![image](https://user-images.githubusercontent.com/31458531/200044672-c20ed8cb-374f-4b53-ba96-160f11c5c5b6.png)
+    ![image](https://user-images.githubusercontent.com/31458531/200044672-c20ed8cb-374f-4b53-ba96-160f11c5c5b6.png)
 
 - **Transaction Fee:**
     ![image](https://user-images.githubusercontent.com/31458531/200044790-c290195f-ded7-412f-b40f-775716b9b20b.png)
