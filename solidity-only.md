@@ -623,7 +623,7 @@ Source: [Click here](https://www.youtube.com/watch?v=x4sNXHLP9qY)@ youtube by Ma
 
 Example: ![image](https://user-images.githubusercontent.com/31458531/199783828-d0d64c47-0b19-4f38-9255-87a84e232b8c.png)
 
-## Making thing
+## Decomposing gas fees
 
 Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453e40012a40efabd561540a662afb5371ca01903f27d0b)
 
