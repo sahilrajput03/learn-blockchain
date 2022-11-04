@@ -647,6 +647,8 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
 
 - **Calculation of Tx fees:** Source: [Click here](https://youtu.be/QFmkkfprHPg)
 
+    NOTE: For a much real gasPrice, you must check the current gasPrice @ https://etherscan.io/gastracker
+
     ![image](https://user-images.githubusercontent.com/31458531/200046625-05127dbe-260f-4fa3-8e37-976bdd6b54fb.png)
 
 **Tx Fees for:**
