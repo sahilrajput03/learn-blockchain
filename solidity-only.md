@@ -648,7 +648,7 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
 - **Calculation of Tx fees:**
     ![image](https://user-images.githubusercontent.com/31458531/200046625-05127dbe-260f-4fa3-8e37-976bdd6b54fb.png)
 
-**Tx Fees for:**
+**Tx Fees for:** Source: [Click here](https://youtu.be/QFmkkfprHPg)
 
 - multisig wallet contract deployment:
     
@@ -669,3 +669,4 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
         ![image](https://user-images.githubusercontent.com/31458531/200049865-8f27f4d1-7ac9-44f6-90ae-d3a837f28a7a.png)
 
         ![image](https://user-images.githubusercontent.com/31458531/200049982-3604690b-c30a-428e-84d2-ef4953c852d9.png)
+
