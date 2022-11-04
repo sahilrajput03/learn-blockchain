@@ -645,10 +645,11 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
 - **Burnt & Txn Savings Fees:**
     ![image](https://user-images.githubusercontent.com/31458531/200045387-f20178c1-bdd6-4f1c-a208-8f3f6bffa51f.png)
 
-- **Calculation of Tx fees:**
+- **Calculation of Tx fees:** Source: [Click here](https://youtu.be/QFmkkfprHPg)
+
     ![image](https://user-images.githubusercontent.com/31458531/200046625-05127dbe-260f-4fa3-8e37-976bdd6b54fb.png)
 
-**Tx Fees for:** Source: [Click here](https://youtu.be/QFmkkfprHPg)
+**Tx Fees for:**
 
 - multisig wallet contract deployment:
     
