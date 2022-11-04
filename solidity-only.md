@@ -630,21 +630,16 @@ Example: ![image](https://user-images.githubusercontent.com/31458531/199783828-d
 ![image](https://user-images.githubusercontent.com/31458531/200044672-c20ed8cb-374f-4b53-ba96-160f11c5c5b6.png)
 
 - **Transaction Fee:**
- ![image](https://user-images.githubusercontent.com/31458531/200044790-c290195f-ded7-412f-b40f-775716b9b20b.png)
+    ![image](https://user-images.githubusercontent.com/31458531/200044790-c290195f-ded7-412f-b40f-775716b9b20b.png)
 
 - **Gas Price:**
-
-![image](https://user-images.githubusercontent.com/31458531/200044927-4074502e-6665-49e3-89c4-6e55ac8a4018.png)
+    ![image](https://user-images.githubusercontent.com/31458531/200044927-4074502e-6665-49e3-89c4-6e55ac8a4018.png)
 
 - **Gas Limit & Usage by Txn:**
-
-![image](https://user-images.githubusercontent.com/31458531/200045079-fe546e28-bbf4-46f3-9db9-bed0612e42a2.png)
+    ![image](https://user-images.githubusercontent.com/31458531/200045079-fe546e28-bbf4-46f3-9db9-bed0612e42a2.png)
 
 - **Gas Fees:**
-
-![image](https://user-images.githubusercontent.com/31458531/200045245-1f0d4bac-752c-4c2c-8359-2a6820d5d707.png)
-
+    ![image](https://user-images.githubusercontent.com/31458531/200045245-1f0d4bac-752c-4c2c-8359-2a6820d5d707.png)
 
 - **Burnt & Txn Savings Fees:**
-
-![image](https://user-images.githubusercontent.com/31458531/200045387-f20178c1-bdd6-4f1c-a208-8f3f6bffa51f.png)
+    ![image](https://user-images.githubusercontent.com/31458531/200045387-f20178c1-bdd6-4f1c-a208-8f3f6bffa51f.png)
