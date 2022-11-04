@@ -622,3 +622,29 @@ Source: [Click here](https://www.youtube.com/watch?v=x4sNXHLP9qY)@ youtube by Ma
     - Another example is like say your character has a collection of items, then instead of minting them NFT token for each of those items you can bundle them together and it would be represented as single SFT that could be fraction if needed. One of the item from the bundle could be resole or traded.
 
 Example: ![image](https://user-images.githubusercontent.com/31458531/199783828-d0d64c47-0b19-4f38-9255-87a84e232b8c.png)
+
+## Making thing
+
+- **Value:**
+
+![image](https://user-images.githubusercontent.com/31458531/200044672-c20ed8cb-374f-4b53-ba96-160f11c5c5b6.png)
+
+- **Transaction Fee:**
+ ![image](https://user-images.githubusercontent.com/31458531/200044790-c290195f-ded7-412f-b40f-775716b9b20b.png)
+
+- **Gas Price:**
+
+![image](https://user-images.githubusercontent.com/31458531/200044927-4074502e-6665-49e3-89c4-6e55ac8a4018.png)
+
+- **Gas Limit & Usage by Txn:**
+
+![image](https://user-images.githubusercontent.com/31458531/200045079-fe546e28-bbf4-46f3-9db9-bed0612e42a2.png)
+
+- **Gas Fees:**
+
+![image](https://user-images.githubusercontent.com/31458531/200045245-1f0d4bac-752c-4c2c-8359-2a6820d5d707.png)
+
+
+- **Burnt & Txn Savings Fees:**
+
+![image](https://user-images.githubusercontent.com/31458531/200045387-f20178c1-bdd6-4f1c-a208-8f3f6bffa51f.png)
