@@ -627,11 +627,6 @@ Example: ![image](https://user-images.githubusercontent.com/31458531/199783828-d
 
 Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453e40012a40efabd561540a662afb5371ca01903f27d0b)
 
-- **Calculation of Tx fees:**
-
-    ![image](https://user-images.githubusercontent.com/31458531/200046625-05127dbe-260f-4fa3-8e37-976bdd6b54fb.png)
-
-
 - **Value:**
     ![image](https://user-images.githubusercontent.com/31458531/200044672-c20ed8cb-374f-4b53-ba96-160f11c5c5b6.png)
 
@@ -650,7 +645,17 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
 - **Burnt & Txn Savings Fees:**
     ![image](https://user-images.githubusercontent.com/31458531/200045387-f20178c1-bdd6-4f1c-a208-8f3f6bffa51f.png)
 
+- **Calculation of Tx fees:**
+    ![image](https://user-images.githubusercontent.com/31458531/200046625-05127dbe-260f-4fa3-8e37-976bdd6b54fb.png)
 
-Estimated cost for multisig wallet contract deployment:
+**Tx Fees for:**
 
-![image](https://user-images.githubusercontent.com/31458531/200047041-5a25c8ab-a0e7-4166-989e-4094c4345873.png)
+- multisig wallet contract deployment:
+    
+    ![image](https://user-images.githubusercontent.com/31458531/200047836-c1863d8e-a3b8-486f-9ff5-6839e7d27f16.png)
+
+- kryptobirdz:
+    - nftMarket contract deployment:
+        ![image](https://user-images.githubusercontent.com/31458531/200048012-89436ec0-8cc3-4175-919a-68bed8eed82c.png)
+    - nft contract deployment:
+        ![image](https://user-images.githubusercontent.com/31458531/200048180-80e12e09-6cee-4009-a9df-6be5d1cfdd46.png)
