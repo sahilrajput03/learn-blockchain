@@ -625,6 +625,13 @@ Example: ![image](https://user-images.githubusercontent.com/31458531/199783828-d
 
 ## Making thing
 
+Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453e40012a40efabd561540a662afb5371ca01903f27d0b)
+
+- **Calculation of Tx fees:**
+
+    ![image](https://user-images.githubusercontent.com/31458531/200046625-05127dbe-260f-4fa3-8e37-976bdd6b54fb.png)
+
+
 - **Value:**
     ![image](https://user-images.githubusercontent.com/31458531/200044672-c20ed8cb-374f-4b53-ba96-160f11c5c5b6.png)
 
