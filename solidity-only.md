@@ -649,3 +649,8 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
 
 - **Burnt & Txn Savings Fees:**
     ![image](https://user-images.githubusercontent.com/31458531/200045387-f20178c1-bdd6-4f1c-a208-8f3f6bffa51f.png)
+
+
+Estimated cost for multisig wallet contract deployment:
+
+![image](https://user-images.githubusercontent.com/31458531/200047041-5a25c8ab-a0e7-4166-989e-4094c4345873.png)
