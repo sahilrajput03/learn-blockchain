@@ -666,6 +666,6 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
     
     - dai and zrx ERC20 creations:
     
-    ![image](https://user-images.githubusercontent.com/31458531/200049865-8f27f4d1-7ac9-44f6-90ae-d3a837f28a7a.png)
+        ![image](https://user-images.githubusercontent.com/31458531/200049865-8f27f4d1-7ac9-44f6-90ae-d3a837f28a7a.png)
 
-    ![image](https://user-images.githubusercontent.com/31458531/200049982-3604690b-c30a-428e-84d2-ef4953c852d9.png)
+        ![image](https://user-images.githubusercontent.com/31458531/200049982-3604690b-c30a-428e-84d2-ef4953c852d9.png)
