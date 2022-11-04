@@ -659,3 +659,13 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
         ![image](https://user-images.githubusercontent.com/31458531/200048012-89436ec0-8cc3-4175-919a-68bed8eed82c.png)
     - nft contract deployment:
         ![image](https://user-images.githubusercontent.com/31458531/200048180-80e12e09-6cee-4009-a9df-6be5d1cfdd46.png)
+
+- dex contract (decentralized exchange):
+
+    ![image](https://user-images.githubusercontent.com/31458531/200049121-57a56b39-6efc-4069-9557-6350968cc2a5.png) 
+    
+    - dai and zrx ERC20 creations:
+    
+    ![image](https://user-images.githubusercontent.com/31458531/200049865-8f27f4d1-7ac9-44f6-90ae-d3a837f28a7a.png)
+
+    ![image](https://user-images.githubusercontent.com/31458531/200049982-3604690b-c30a-428e-84d2-ef4953c852d9.png)
