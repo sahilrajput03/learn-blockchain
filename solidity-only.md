@@ -37,6 +37,9 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- What is DAO's?
+    - [1](https://cointelegraph.com/daos-for-beginners/what-is-a-dao)
+    - [2](https://www.investopedia.com/tech/what-dao/#:~:text=A%20DAO%20initially%20raises%20capital,value%20to%20raise%20more%20capital.)
 - Create ERC1155 smart contract with https://wizard.openzeppelin.com and Remix IDE: [Click here](https://www.youtube.com/watch?v=sPbNvMVfvE4)
 - Check this out: [Click here](https://twitter.com/RareSkills_io/status/1588189949203218432)
 - Opensea documentation (asked if reffered by Piyush Khatri | Suffescom Solutions, Mohali): [Click here](https://docs.opensea.io/docs)
