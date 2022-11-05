@@ -681,3 +681,7 @@ Source: [https://defillama.com/chains](https://defillama.com/chains)
 ![image](https://user-images.githubusercontent.com/31458531/200134312-518cbd13-20ee-438d-93e0-9a8e3ff32e38.png)
 
 
+## Solidity for solana
+
+- Github Repo: https://github.com/hyperledger/solang
+- Website: https://solang.readthedocs.io/en/latest/
