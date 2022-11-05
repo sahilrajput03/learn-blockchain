@@ -673,3 +673,11 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
 
         ![image](https://user-images.githubusercontent.com/31458531/200049982-3604690b-c30a-428e-84d2-ef4953c852d9.png)
 
+
+## Total value locked
+
+Source: [https://defillama.com/chains](https://defillama.com/chains)
+
+![image](https://user-images.githubusercontent.com/31458531/200134312-518cbd13-20ee-438d-93e0-9a8e3ff32e38.png)
+
+
