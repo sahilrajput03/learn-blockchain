@@ -694,3 +694,8 @@ Source: [https://defillama.com/chains](https://defillama.com/chains)
 - https://defillama.com/chains
 - https://phemex.com/academy/what-is-market-cap-to-tvl-ratio
 - https://www.youtube.com/watch?v=ncDsY5THOdQ
+
+## bad nfts ?
+
+- https://www.businessinsider.in/cryptocurrency/news/tom-brady-bought-a-bored-ape-nft-for-430000-in-april-hes-lost-tens-of-thousands-on-it-since-then-/articleshow/93439552.cms
+- https://www.livemint.com/news/india/jack-dorsey-s-nft-fall-from-2-9-mn-to-97-nikhil-kamath-cites-report-showing-downfall-of-nfts-11667541931978.html
