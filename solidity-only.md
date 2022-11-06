@@ -688,3 +688,9 @@ Source: [https://defillama.com/chains](https://defillama.com/chains)
 
 - Github Repo: https://github.com/hyperledger/solang
 - Website: https://solang.readthedocs.io/en/latest/
+
+## TVL vs. Market cap of a coin?
+
+- https://defillama.com/chains
+- https://phemex.com/academy/what-is-market-cap-to-tvl-ratio
+- https://www.youtube.com/watch?v=ncDsY5THOdQ
