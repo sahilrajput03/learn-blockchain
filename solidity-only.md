@@ -703,3 +703,10 @@ Source: [https://defillama.com/chains](https://defillama.com/chains)
 ## Are blockchain certifications worth it?
 
 [Click here](https://youtu.be/IFeSutCSzlk) by CodeEater
+
+
+## polygon ? what is it?
+
+Source: [Click here](https://academy.binance.com/en/articles/blockchain-layer-1-vs-layer-2-scaling-solutions)
+
+![image](https://user-images.githubusercontent.com/31458531/200410896-887b4caa-061d-4df5-b07e-ae947174a48f.png)
