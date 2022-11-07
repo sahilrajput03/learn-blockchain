@@ -11,7 +11,7 @@ Note: I am using web3js from `node_modules` so you must do `npm i` to get web3js
 
 ![](./ss-getting-abi-and-bytecode.png)
 
-**Deployment successful:**
+**Deployment successful:** Getting address of the contract.
 
 ![](./ss-deployed.png)
 
