@@ -712,3 +712,10 @@ Source: [Click here](https://academy.binance.com/en/articles/blockchain-layer-1-
 ![image](https://user-images.githubusercontent.com/31458531/200410896-887b4caa-061d-4df5-b07e-ae947174a48f.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/200411148-1d06a2e3-029a-4361-8bf0-5ebb8622438b.png)
+
+## deployment to polygon is very very very cheap, yikes!!!
+
+https://medium.com/scrappy-squirrels/estimating-smart-contract-costs-f65acf818c26
+
+![image](https://user-images.githubusercontent.com/31458531/200426117-3257e71c-5a54-4a56-be01-8bd1509cb77c.png)
+
