@@ -690,9 +690,9 @@ Simple comparisons Date: 8 Nov, 2022
 
 - **Cost of DEPLOYING ERC20 CONTRACT**
 
-    1. I deployed to Mumbai testnet, it costs to me: 0.00037$ 🏆😍
-    2. And deploying to Goerli testnet, it costs to me: 12-15$  🥶
-    3. And deploying to BNB testnet, it costs to me: $ 4.12😪
+    1. I deployed to Mumbai testnet, it costs to me: 0.00037$ 🏆😍 {30 Paise}
+    2. And deploying to BNB testnet, it costs to me: $ 4.12😪 {Rs. 337}
+    3. And deploying to Goerli testnet, it costs to me: 12-15$ 🥶 {Rs. 980-1230}
 
     *(I calculated this by checking the current price of MATIC, ETH and BNB  prices then converting transaction fees to dollars of both of these contract deployment).*
 
