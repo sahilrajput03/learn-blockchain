@@ -679,8 +679,22 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
         **And polygon, deploying above same contract is just 30paise. It simply rocks becoz it costs only 30Paise. Its amazing.!! 🥰 ❣ 💓 ❥ 💑 💜 , You can read how much cheap it is in comparison to ethereum direct deployments in below section: "Deployment to polygon is very very very cheap, yikes!!!".**
         
         ![image](https://user-images.githubusercontent.com/31458531/200431161-d93d79f3-fb7d-41a9-a613-f8dce0bda9ed.png)
+        
+        Also, BNB i.e., deploying to binance chain is cheaper as well but like:
+        
+        ![image](https://user-images.githubusercontent.com/31458531/200437753-a49bc579-d749-43ab-bca6-eee5be6b35c9.png)
+        
+        ![image](https://user-images.githubusercontent.com/31458531/200437792-8c404c4d-5a52-4d26-b6d1-8fc82986425c.png)
 
+Simple comparisons Date: 8 Nov, 2022
 
+- **Cost of DEPLOYING ERC20 CONTRACT**
+
+    1. I deployed to Mumbai testnet, it costs to me: 0.00037$ 🏆😍
+    2. And deploying to Goerli testnet, it costs to me: 12-15$  🥶
+    3. And deploying to BNB testnet, it costs to me: $ 4.12😪
+
+    *(I calculated this by checking the current price of MATIC, ETH and BNB  prices then converting transaction fees to dollars of both of these contract deployment).*
 
 ## Total value locked
 
