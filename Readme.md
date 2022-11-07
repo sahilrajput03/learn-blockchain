@@ -5,7 +5,8 @@
 3. [Readme solidityOnly](./solidity-only.md)
 
 **Books:**
-- Mastering Ethereum: [Click here](https://github.com/ethereumbook/ethereumbook)
+- Mastering Ethereum: [Click here](https://github.com/ethereumbook/ethereumbook) | 16.6* Github
+- Mastering Bitcoing: [Click here](https://github.com/bitcoinbook/bitcoinbook) | 20.6* Github
 - Mastering Blockchain Edition2 ~ Imran Bashir
 - *TODO: Buy* Mastering Blockchain Programming with Solidity - Jitendra Chittoda [Buy here](https://www.amazon.in/Mastering-Blockchain-Programming-Solidity-production-ready-ebook/dp/B07W5F8S1L) (Rs. 443 Kindle Edition): The book is based on ethereum and truffle basis.  Read this [book online @ here](https://www.packtpub.com) for 200Rs/month as well.
 
