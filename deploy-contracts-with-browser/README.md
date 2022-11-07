@@ -6,3 +6,12 @@ Note: I am using web3js from `node_modules` so you must do `npm i` to get web3js
 
 - This tutorial: https://www.youtube.com/watch?v=d5YHnDZNCPU
 - Another tut for deploying to polygon: https://www.youtube.com/watch?v=eADNSt6Kv-Y
+
+**Getting abi.js and bytecode.js values from Remix:**
+
+![](./ss-getting-abi-and-bytecode.png)
+
+**Deployment successful:**
+
+![](./ss-deployed.png)
+
