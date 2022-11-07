@@ -682,6 +682,8 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
         
         Also, BNB i.e., deploying to binance chain is cheaper as well but like:
         
+        ![image](https://user-images.githubusercontent.com/31458531/200439043-8cd72345-59e3-4c6a-8d21-e5ddfb17f2b8.png)
+        
         ![image](https://user-images.githubusercontent.com/31458531/200437753-a49bc579-d749-43ab-bca6-eee5be6b35c9.png)
         
         ![image](https://user-images.githubusercontent.com/31458531/200437792-8c404c4d-5a52-4d26-b6d1-8fc82986425c.png)
