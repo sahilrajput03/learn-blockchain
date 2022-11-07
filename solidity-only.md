@@ -737,3 +737,7 @@ Source: [Docs](https://academy.binance.com/en/articles/connecting-metamask-to-bi
 ![image](https://user-images.githubusercontent.com/31458531/200435727-1f987293-ba37-4738-b810-bbdc3fc741b5.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/200435799-0c8d42a6-446a-413b-8aac-e1843a3bca85.png)
+
+## Ticker of Binance Coin is BNB (not BSC)
+
+![image](https://user-images.githubusercontent.com/31458531/200436032-49806343-3c87-4055-b06d-5eb933aa5439.png)
