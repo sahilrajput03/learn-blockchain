@@ -670,11 +670,16 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
 
     ![image](https://user-images.githubusercontent.com/31458531/200049121-57a56b39-6efc-4069-9557-6350968cc2a5.png) 
     
-    - dai and zrx ERC20 creations:
+    - dai and zrx (and ) ERC20 creations:
     
         ![image](https://user-images.githubusercontent.com/31458531/200049865-8f27f4d1-7ac9-44f6-90ae-d3a837f28a7a.png)
 
         ![image](https://user-images.githubusercontent.com/31458531/200049982-3604690b-c30a-428e-84d2-ef4953c852d9.png)
+        
+        **And polygon simply rocks becoz it costs only 30Paise. Its amazing.!! 🥰 ❣ 💓 ❥ 💑 💜 , You can read how much cheap it is in comparison to ethereum direct deployments in below section: "Deployment to polygon is very very very cheap, yikes!!!".**
+        
+        ![image](https://user-images.githubusercontent.com/31458531/200431161-d93d79f3-fb7d-41a9-a613-f8dce0bda9ed.png)
+
 
 
 ## Total value locked
@@ -713,7 +718,7 @@ Source: [Click here](https://academy.binance.com/en/articles/blockchain-layer-1-
 
 ![image](https://user-images.githubusercontent.com/31458531/200411148-1d06a2e3-029a-4361-8bf0-5ebb8622438b.png)
 
-## deployment to polygon is very very very cheap, yikes!!!
+## Deployment to polygon is very very very cheap, yikes!!!
 
 https://medium.com/scrappy-squirrels/estimating-smart-contract-costs-f65acf818c26
 
