@@ -612,3 +612,8 @@ For more details: https://docs.ethers.io/api-keys/
 [Source](https://ethereum.stackexchange.com/a/112437/106687)
 
 ![image](https://user-images.githubusercontent.com/31458531/197202869-a46a6b25-ba8f-4b4f-aa7b-1c900042b428.png)
+
+## blockchain FIR use case in india
+
+- https://www.indiatoday.in/cryptocurrency/story/firozabad-police-to-use-polygon-blockchain-to-register-complain-2284524-2022-10-12
+- https://www.coindesk.com/policy/2022/10/13/police-complaints-in-this-indian-district-are-going-on-the-polygon-blockchain/
