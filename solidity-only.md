@@ -719,3 +719,7 @@ https://medium.com/scrappy-squirrels/estimating-smart-contract-costs-f65acf818c2
 
 ![image](https://user-images.githubusercontent.com/31458531/200426117-3257e71c-5a54-4a56-be01-8bd1509cb77c.png)
 
+
+## blockchain layer 1 vs. layer 2 scaling solutions
+
+https://academy.binance.com/en/articles/blockchain-layer-1-vs-layer-2-scaling-solutions
