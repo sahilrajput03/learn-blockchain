@@ -676,7 +676,7 @@ Source of tx: [Click here](https://goerli.etherscan.io/tx/0x0ca13faf3de9ce14c453
 
         ![image](https://user-images.githubusercontent.com/31458531/200049982-3604690b-c30a-428e-84d2-ef4953c852d9.png)
         
-        **And polygon simply rocks becoz it costs only 30Paise. Its amazing.!! 🥰 ❣ 💓 ❥ 💑 💜 , You can read how much cheap it is in comparison to ethereum direct deployments in below section: "Deployment to polygon is very very very cheap, yikes!!!".**
+        **And polygon, deploying above same contract is just 30paise. It simply rocks becoz it costs only 30Paise. Its amazing.!! 🥰 ❣ 💓 ❥ 💑 💜 , You can read how much cheap it is in comparison to ethereum direct deployments in below section: "Deployment to polygon is very very very cheap, yikes!!!".**
         
         ![image](https://user-images.githubusercontent.com/31458531/200431161-d93d79f3-fb7d-41a9-a613-f8dce0bda9ed.png)
 
