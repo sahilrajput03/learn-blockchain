@@ -15,3 +15,9 @@ Note: I am using web3js from `node_modules` so you must do `npm i` to get web3js
 
 ![](./ss-deployed.png)
 
+
+**Viewing txn on etherscan:**
+
+![image](https://user-images.githubusercontent.com/31458531/200440870-f6462baf-ff2b-400f-b33e-1d3feeb1ae43.png)
+
+![image](https://user-images.githubusercontent.com/31458531/200440920-c6d2036f-c730-4750-93a3-c453422c530a.png)
