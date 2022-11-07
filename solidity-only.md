@@ -710,3 +710,5 @@ Source: [https://defillama.com/chains](https://defillama.com/chains)
 Source: [Click here](https://academy.binance.com/en/articles/blockchain-layer-1-vs-layer-2-scaling-solutions)
 
 ![image](https://user-images.githubusercontent.com/31458531/200410896-887b4caa-061d-4df5-b07e-ae947174a48f.png)
+
+![image](https://user-images.githubusercontent.com/31458531/200411148-1d06a2e3-029a-4361-8bf0-5ebb8622438b.png)
