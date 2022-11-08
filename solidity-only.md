@@ -790,6 +790,10 @@ You can have only two of these entities at a time with blockchain.
 
 - Instadap (Indian Booming Startup in crypto)
 
-# Ethereum philosophy page
+## Ethereum philosophy page
 
 https://ethereum.foundation/philosophy
+
+## blue chip cryptos?
+
+![image](https://user-images.githubusercontent.com/31458531/200641335-ccdd5b96-cc9c-4415-a566-a4c4b8713d94.png)
