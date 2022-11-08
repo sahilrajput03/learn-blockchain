@@ -787,3 +787,5 @@ You can have only two of these entities at a time with blockchain.
 - A prediction market company: ![image](https://user-images.githubusercontent.com/31458531/200627963-fa823ae6-45dc-4810-9840-a4d003638f33.png)
 
 - Aave: ![image](https://user-images.githubusercontent.com/31458531/200628196-b86cf7b7-d371-4346-9bd4-331c90d63ede.png)
+
+- Instadap (Indian Booming Startup in crypto)
