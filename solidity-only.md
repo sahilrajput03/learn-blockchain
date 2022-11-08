@@ -773,3 +773,9 @@ You can deploy your ethereum contract to polygon network within 15 mins ~Sandeep
 Official Article by BNB: [Click here](https://www.binance.com/en/news/top/7213400)
 
 - Blockchain Scalability - Sidechains and Payment Channels: [Click here](https://academy.binance.com/en/articles/blockchain-scalability-sidechains-and-payment-channels)
+
+## blockchain trillema
+
+You can have only two of these entities at a time with blockchain.
+
+![image](https://user-images.githubusercontent.com/31458531/200625587-f556a8ff-c373-45d6-99aa-2b8422890558.png)
