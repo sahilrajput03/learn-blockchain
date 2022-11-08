@@ -7,6 +7,7 @@
 - (non-fungible tokens standard): concert seats (becoz seats are unique in themselves as they are not interchangeable with each other)
 - FIR booking app like they have with on Fiorzabad as in news
 - House ownership on blockchain i.e., registr/land records
+- TODO: Make ppt on these applications and challenges and ui's etc for these projects
 
 you can sort now..
 
