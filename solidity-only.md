@@ -763,7 +763,7 @@ Source: [Docs](https://academy.binance.com/en/articles/connecting-metamask-to-bi
 
 ![image](https://user-images.githubusercontent.com/31458531/200537979-46122ae6-5224-4460-a27a-0b4c56edec5a.png)
 
-Sandeep Nailwal (Polygon Co-founder): 🥰 ❣ 💓 ❥ 💑 💜 [Talk at GenesisBlockConference](https://www.youtube.com/watch?v=0PPE9jXgnUE)
+- @youtube: Sandeep Nailwal (Polygon Co-founder): 🥰 ❣ 💓 ❥ 💑 💜 [Talk at GenesisBlockConference](https://www.youtube.com/watch?v=0PPE9jXgnUE)
 
 - @youtube: India’s first unicorn protocol: Matic a.k.a Polygon: [Click here](https://www.youtube.com/watch?v=QvQ6elkV1kM)
 
