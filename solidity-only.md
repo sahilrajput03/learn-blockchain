@@ -771,3 +771,5 @@ You can deploy your ethereum contract to polygon network within 15 mins ~Sandeep
 ## Binance sidechain?
 
 Official Article by BNB: [Click here](https://www.binance.com/en/news/top/7213400)
+
+- Blockchain Scalability - Sidechains and Payment Channels: [Click here](https://academy.binance.com/en/articles/blockchain-scalability-sidechains-and-payment-channels)
