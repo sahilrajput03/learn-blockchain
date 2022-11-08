@@ -789,3 +789,7 @@ You can have only two of these entities at a time with blockchain.
 - Aave: ![image](https://user-images.githubusercontent.com/31458531/200628196-b86cf7b7-d371-4346-9bd4-331c90d63ede.png)
 
 - Instadap (Indian Booming Startup in crypto)
+
+# Ethereum philosophy page
+
+https://ethereum.foundation/philosophy
