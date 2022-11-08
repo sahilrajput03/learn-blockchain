@@ -37,6 +37,7 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- Make a ppt on applications of blockchain and add 5 usecases of linkedin + FIR application as Firozabad did + Hourse Ownershit (as suggested by Sanddep Nailwal)
 - What is DAO's?
     - [1](https://cointelegraph.com/daos-for-beginners/what-is-a-dao)
     - [2](https://www.investopedia.com/tech/what-dao/#:~:text=A%20DAO%20initially%20raises%20capital,value%20to%20raise%20more%20capital.)
