@@ -766,3 +766,8 @@ Source: [Docs](https://academy.binance.com/en/articles/connecting-metamask-to-bi
 Sandeep Nailwal (Polygon Co-founder): 🥰 ❣ 💓 ❥ 💑 💜 [Talk at GenesisBlockConference](https://www.youtube.com/watch?v=0PPE9jXgnUE) , **Start watching from this timestamp**: [Click here](https://youtu.be/0PPE9jXgnUE?t=1228)
 
 You can deploy your ethereum contract to polygon network within 15 mins ~Sandeep Nailwal
+
+
+## Binance sidechain?
+
+Official Article by BNB: [Click here](https://www.binance.com/en/news/top/7213400)
