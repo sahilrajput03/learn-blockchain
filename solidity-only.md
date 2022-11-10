@@ -839,3 +839,7 @@ https://ethereum.foundation/philosophy
 Below image shows that how a validator stackes his eth (i.e, min 32ETH) to become a validator(there's no concept of miner in PoS) and thus he/she can earn the txns fees for the tx it completes successfully.
 
 ![image](https://user-images.githubusercontent.com/31458531/201081192-450e621a-4dc3-4d07-a3fa-67fa03d828e9.png)
+
+Also, in case if the validator try to tamper with with block then all his stacke will not be returned and also the txn fees will not be offered:
+
+![image](https://user-images.githubusercontent.com/31458531/201081513-c761880a-6a09-4418-8a7e-68a9f3ea9447.png)
