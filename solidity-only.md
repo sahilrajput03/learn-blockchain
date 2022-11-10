@@ -868,4 +868,4 @@ PoS works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have
 
 ## IPFS can't really enforce nodes to delete an uploaded file, isn't that a problem?
 
-[Click here](https://stackoverflow.com/questions/69823854/ipfs-cant-really-enforce-nodes-to-delete-an-uploaded-file-isnt-that-a-problem)
+Stackoverflow :[Click here](https://stackoverflow.com/questions/69823854/ipfs-cant-really-enforce-nodes-to-delete-an-uploaded-file-isnt-that-a-problem)
