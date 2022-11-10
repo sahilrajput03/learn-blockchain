@@ -8,6 +8,7 @@
 - FIR booking app like they have with on Fiorzabad as in news (NFT)
 - House Wwnership on Blockchain i.e., Registr/Land Records
 - 12 Months Kitty Funds (wit staking interests)
+- Fake trading app, i.e., it allows you trade with pseudo tokens and you can get have portfolio build of your own for showing to people how good are you. Baisc idea is that you get 1,000rs. each month. And on subsequent month you get +500Rs. to this account. YIkes!!
 
 you can sort now..
 
