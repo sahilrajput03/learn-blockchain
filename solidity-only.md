@@ -848,3 +848,7 @@ Also, in case if the validator try to tamper with with block then all his stacke
 PoS works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have  more probability of getting selected in the opportunity to validate a block. (whereas in PoW it happens with the competitive war between nodes).
 
 ![image](https://user-images.githubusercontent.com/31458531/201082309-a9797d4f-a948-4a8c-8c96-9f0a693ea555.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201082462-856d54f6-22a1-4b34-aa95-3cfeaf8885fc.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201082688-b6013320-368e-4728-936c-c60b7d705eff.png)
