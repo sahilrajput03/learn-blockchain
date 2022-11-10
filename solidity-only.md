@@ -804,3 +804,5 @@ https://ethereum.foundation/philosophy
 ## DAO ?
 
 ![image](https://user-images.githubusercontent.com/31458531/201073170-51cdfab5-31ec-402b-ac96-723995d4987a.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201073608-b3487120-1a55-45b3-ae89-2141d332d771.png)
