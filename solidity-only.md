@@ -800,3 +800,7 @@ https://ethereum.foundation/philosophy
 ## blue chip cryptos?
 
 ![image](https://user-images.githubusercontent.com/31458531/200641335-ccdd5b96-cc9c-4415-a566-a4c4b8713d94.png)
+
+## DAO ?
+
+![image](https://user-images.githubusercontent.com/31458531/201073170-51cdfab5-31ec-402b-ac96-723995d4987a.png)
