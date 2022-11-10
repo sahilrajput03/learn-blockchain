@@ -853,3 +853,7 @@ PoS works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have
 ![image](https://user-images.githubusercontent.com/31458531/201082462-856d54f6-22a1-4b34-aa95-3cfeaf8885fc.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/201082864-cf3d3100-dfe5-4667-837d-7676b052ab27.png)
+
+## Making a function payable makes it red coloured in remix
+
+![image](https://user-images.githubusercontent.com/31458531/201092518-e3851c17-3154-4fb2-804d-f6caf702b599.png)
