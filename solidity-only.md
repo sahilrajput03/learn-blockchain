@@ -866,8 +866,10 @@ PoS works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have
 
 ![image](https://user-images.githubusercontent.com/31458531/201092518-e3851c17-3154-4fb2-804d-f6caf702b599.png)
 
-## IPFS can't really enforce nodes to delete an uploaded file, isn't that a problem?
+## IPFS indepths?
+- IPFS can't really enforce nodes to delete an uploaded file, isn't that a problem?
+    - Stackoverflow :[Click here](https://stackoverflow.com/questions/69823854/ipfs-cant-really-enforce-nodes-to-delete-an-uploaded-file-isnt-that-a-problem)
+    - Hacker News: [Click here](https://news.ycombinator.com/item?id=19649893)
 
-Stackoverflow :[Click here](https://stackoverflow.com/questions/69823854/ipfs-cant-really-enforce-nodes-to-delete-an-uploaded-file-isnt-that-a-problem)
-
-Hacker News: [Click here](https://news.ycombinator.com/item?id=19649893)
+- Are CID different for the same file but uploaded by 2 users in IPFS?: [Click here](https://stackoverflow.com/questions/59183147/are-cid-different-for-the-same-file-but-uploaded-by-2-users-in-ipfs)
+    - tldr: Yes they produce same hash
