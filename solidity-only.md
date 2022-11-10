@@ -1,13 +1,13 @@
 # Learn Solidity
 
-**project ideas:**
-- (fungible/non-fungible tokens?): ecommerce app
-- (fungible/non-fungible tokens?): social media app
-- (non-fungible tokens standard): car resale business so we can have nfts of cars (using chasi id)
-- (non-fungible tokens standard): concert seats (becoz seats are unique in themselves as they are not interchangeable with each other)
-- FIR booking app like they have with on Fiorzabad as in news
-- House ownership on blockchain i.e., registr/land records
-- TODO: Make ppt on these applications and challenges and ui's etc for these projects
+**Project Ideas:**
+- Ecommerce app (FT/NFT/SFT?)
+- Social media app (FT+NFT)
+- Car resale business so we can have nfts of cars (using chasi id) (NFT)
+- Concert seats (becoz seats are unique in themselves as they are not interchangeable with each other) (NFT)
+- FIR booking app like they have with on Fiorzabad as in news (NFT)
+- House Wwnership on Blockchain i.e., Registr/Land Records
+- 12 Months Kitty Funds (wit staking interests)
 
 you can sort now..
 
@@ -41,7 +41,8 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
-- Make a ppt on applications of blockchain and add 5 usecases of linkedin + FIR application as Firozabad did + Hourse Ownershit (as suggested by Sanddep Nailwal)
+- Make ppt on these applications  and ui's etc for these projects
+- Make a ppt on applications(/and challenges) of blockchain and add 5 usecases of linkedin + FIR application as Firozabad did + Hourse Ownershit (as suggested by Sanddep Nailwal)
 - What is DAO's?
     - [1](https://cointelegraph.com/daos-for-beginners/what-is-a-dao)
     - [2](https://www.investopedia.com/tech/what-dao/#:~:text=A%20DAO%20initially%20raises%20capital,value%20to%20raise%20more%20capital.)
