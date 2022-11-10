@@ -873,3 +873,7 @@ PoS works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have
 
 - Are CID different for the same file but uploaded by 2 users in IPFS?: [Click here](https://stackoverflow.com/questions/59183147/are-cid-different-for-the-same-file-but-uploaded-by-2-users-in-ipfs)
     - tldr: Yes they produce same hash
+
+## Will same contract consume different gas in different network?
+
+![image](https://user-images.githubusercontent.com/31458531/201174503-473d6965-936c-4415-948d-0243f177e226.png)
