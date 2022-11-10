@@ -42,6 +42,7 @@ you can sort now..
 
 **Todo:**
 - Do the homepage notes tasks from mobile
+- Do the task of vincent on telegram
 - DO THIS erc1155 video: [Click here](https://youtu.be/J4p1sdo3Rz4)
 - Learn what, how and implement flash loans.
 - Learn what, how and implement upgradable smart contracts.
