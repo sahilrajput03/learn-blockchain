@@ -851,4 +851,4 @@ PoS works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have
 
 ![image](https://user-images.githubusercontent.com/31458531/201082462-856d54f6-22a1-4b34-aa95-3cfeaf8885fc.png)
 
-![image](https://user-images.githubusercontent.com/31458531/201082688-b6013320-368e-4728-936c-c60b7d705eff.png)
+![image](https://user-images.githubusercontent.com/31458531/201082864-cf3d3100-dfe5-4667-837d-7676b052ab27.png)
