@@ -831,3 +831,11 @@ https://ethereum.foundation/philosophy
 ![image](https://user-images.githubusercontent.com/31458531/201079913-b67bca03-3e81-4e60-92c8-84152899caad.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/201079963-599e3a92-df9c-49fe-8380-4727280116ee.png)
+
+## ethereum 2.0 or Serenity
+
+![image](https://user-images.githubusercontent.com/31458531/201080155-5e7011f7-2f6a-4b77-832c-d939148034d5.png)
+
+Below image shows that how a validator stackes his eth (i.e, min 32ETH) to become a validator(there's no concept of miner in PoS) and thus he/she can earn the txns fees for the tx it completes successfully.
+
+![image](https://user-images.githubusercontent.com/31458531/201081192-450e621a-4dc3-4d07-a3fa-67fa03d828e9.png)
