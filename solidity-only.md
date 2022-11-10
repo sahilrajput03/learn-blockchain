@@ -1,5 +1,8 @@
 # Learn Solidity
 
+- Binary 8 digits: 1111 1111    { 2^ (8) = 256} => 1 Byte comprises of 8 chars (0/1)
+- Hex: 2 digits: ff             {16^ (2) = 256} => 1 Byte comprises of 2 chars (0/1/2/3/.../f)
+
 **Project Ideas:**
 - Ecommerce app (FT/NFT/SFT?)
 - Social media app (FT+NFT)
