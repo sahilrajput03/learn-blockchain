@@ -880,3 +880,7 @@ PoS works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have
 ## Will same contract consume different gas in different network?
 
 ![image](https://user-images.githubusercontent.com/31458531/201174503-473d6965-936c-4415-948d-0243f177e226.png)
+
+## hack smart contract as blockchain explorers can reveal the transaction data very esaily and it can be crucial an app as shown in article
+
+[Click here](https://medium.com/hackernoon/your-private-solidity-variable-is-not-private-save-it-before-it-becomes-public-52a723f29f5e#:~:text=Your%20%E2%80%9Cprivate%E2%80%9D%20Solidity%20Variable%20is,vasa%20%7C%20HackerNoon.com%20%7C%20Medium&text=You%20have%202%20free%20member%2Donly%20stories%20left%20this%20month.)
