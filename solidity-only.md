@@ -811,4 +811,4 @@ https://ethereum.foundation/philosophy
 
 ![image](https://user-images.githubusercontent.com/31458531/201074756-9c3f2c69-2367-45dc-8fb0-f2de47b4ea65.png)
 
-![image](https://user-images.githubusercontent.com/31458531/201074901-a973416c-a2f1-4e6a-b998-08dfaf035be2.png)
+![image](https://user-images.githubusercontent.com/31458531/201075667-a887d486-62e8-4320-8df0-4cace15eb714.png)
