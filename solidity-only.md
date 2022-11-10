@@ -845,4 +845,6 @@ Also, in case if the validator try to tamper with with block then all his stacke
 ![image](https://user-images.githubusercontent.com/31458531/201081513-c761880a-6a09-4418-8a7e-68a9f3ea9447.png)
 
 
-Pos works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have  more probability of getting selected in the opportunity to validate a block. (whereas in PoW it happens with the competitive war between nodes).
+PoS works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have  more probability of getting selected in the opportunity to validate a block. (whereas in PoW it happens with the competitive war between nodes).
+
+![image](https://user-images.githubusercontent.com/31458531/201082309-a9797d4f-a948-4a8c-8c96-9f0a693ea555.png)
