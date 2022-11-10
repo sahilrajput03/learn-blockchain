@@ -825,3 +825,9 @@ https://ethereum.foundation/philosophy
 ![image](https://user-images.githubusercontent.com/31458531/201077715-905023f0-7c2a-4eed-8e3f-184ea518d661.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/201078713-73d640b4-3fe9-4208-a97f-9a073cf9f91e.png)
+
+## sharding
+
+![image](https://user-images.githubusercontent.com/31458531/201079913-b67bca03-3e81-4e60-92c8-84152899caad.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201079963-599e3a92-df9c-49fe-8380-4727280116ee.png)
