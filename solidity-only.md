@@ -843,3 +843,6 @@ Below image shows that how a validator stackes his eth (i.e, min 32ETH) to becom
 Also, in case if the validator try to tamper with with block then all his stacke will not be returned and also the txn fees will not be offered:
 
 ![image](https://user-images.githubusercontent.com/31458531/201081513-c761880a-6a09-4418-8a7e-68a9f3ea9447.png)
+
+
+Pos works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have  more probability of getting selected in the opportunity to validate a block. (whereas in PoW it happens with the competitive war between nodes).
