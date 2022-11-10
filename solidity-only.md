@@ -806,3 +806,7 @@ https://ethereum.foundation/philosophy
 ![image](https://user-images.githubusercontent.com/31458531/201073170-51cdfab5-31ec-402b-ac96-723995d4987a.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/201073608-b3487120-1a55-45b3-ae89-2141d332d771.png)
+
+### "The DAO" Attack
+
+![image](https://user-images.githubusercontent.com/31458531/201074756-9c3f2c69-2367-45dc-8fb0-f2de47b4ea65.png)
