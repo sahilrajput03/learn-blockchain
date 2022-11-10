@@ -41,6 +41,7 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- Do the homepage notes tasks from mobile
 - DO THIS erc1155 video: [Click here](https://youtu.be/J4p1sdo3Rz4)
 - Learn what, how and implement flash loans.
 - Learn what, how and implement upgradable smart contracts.
