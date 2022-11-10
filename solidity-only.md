@@ -812,3 +812,16 @@ https://ethereum.foundation/philosophy
 ![image](https://user-images.githubusercontent.com/31458531/201074756-9c3f2c69-2367-45dc-8fb0-f2de47b4ea65.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/201075667-a887d486-62e8-4320-8df0-4cace15eb714.png)
+
+
+## Bitcoin blockchain also made a hardforked as well
+
+![image](https://user-images.githubusercontent.com/31458531/201076583-3aef1fb6-e348-4197-a955-ff4b567a7b0a.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201076833-78fb46dc-1db0-407a-8bac-fb5c249ad4c0.png)
+
+## soft forks
+
+![image](https://user-images.githubusercontent.com/31458531/201077715-905023f0-7c2a-4eed-8e3f-184ea518d661.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201078713-73d640b4-3fe9-4208-a97f-9a073cf9f91e.png)
