@@ -13,6 +13,7 @@
 you can sort now..
 
 **Quick Links:**
+- Sharing docs with ipfs and with encryption: [Click here](https://mycoralhealth.medium.com/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c)
 - **❤️ OpenZeppelin Wizard:** [Click here](https://wizard.openzeppelin.com/)
 - **Commentary on ERC1155 by Sahil** [Click here](https://gist.github.com/sahilrajput03/c201c67b3ba191c08fdb7ad9879d0b4c)
 - **Commentary on Token Comparisons:** [Click here](https://gist.github.com/sahilrajput03/b43608c241ac41d7c736b5fcd4a3f11f)
