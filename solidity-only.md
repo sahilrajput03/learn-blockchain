@@ -41,6 +41,8 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- Learn what, how and implement flash loans.
+- Learn what, how and implement upgradable smart contracts.
 - Make ppt on these applications  and ui's etc for these projects
 - Make a ppt on applications(/and challenges) of blockchain and add 5 usecases of linkedin + FIR application as Firozabad did + Hourse Ownershit (as suggested by Sanddep Nailwal)
 - What is DAO's?
