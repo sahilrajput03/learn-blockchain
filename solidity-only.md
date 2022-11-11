@@ -13,7 +13,7 @@
 - 12 Months Kitty Funds (wit staking interests)
 - Fake trading app, i.e., it allows you trade with pseudo tokens and you can get have portfolio build of your own for showing to people how good are you. Baisc idea is that you get 1,000rs. each month. And on subsequent month you get +500Rs. to this account. YIkes!!
 
-**Use cases of web3 by Shobit -**
+**Use cases of web3 by Shobit (Web3Club)**
 - 1 - Transfer money (USDC, DAI, etc.)
 - 2 - Permissionless loans (AAVE, MakerDAO, etc.)
 - 3 - Permissionless trading (Uniswap, Sushiswap, etc.)
