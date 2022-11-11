@@ -900,3 +900,8 @@ Resources:
 - Web3 Club # Create a gasless whitelist to NFT Mint Smart Contract | NFT Presale smart contract: [Click here](https://www.youtube.com/watch?v=j0S6Izd_H4k)
 - Web3 Club # How to use a Merkle Tree for gasless Whitelist/Allowlist in NFT smart contract: [Click here](https://www.youtube.com/watch?v=YDWYrVtqLRU)
 - Freecodecamp.org # Article # How to Implement a Whitelist in Smart Contracts (ERC-721 NFT, ERC-1155, and others): [Click here](https://www.freecodecamp.org/news/how-to-implement-whitelist-in-smartcontracts-erc-721-nft-erc-1155-and-others/)
+
+
+## hardforking with hardhat with made easy
+
+- Web3 Club # Faucet not working?! Fork blockchain with a local node for testing: [Click here](https://youtu.be/VGZb2orvYJE)
