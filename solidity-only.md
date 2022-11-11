@@ -905,3 +905,5 @@ Resources:
 ## hardforking with hardhat with made easy
 
 - Web3 Club # Faucet not working?! Fork blockchain with a local node for testing: [Click here](https://youtu.be/VGZb2orvYJE)
+
+Code: [Click here](https://gist.github.com/shobhitic/54250ba4519052385af66b0864b712a2)
