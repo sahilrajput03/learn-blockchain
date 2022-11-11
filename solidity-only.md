@@ -884,3 +884,18 @@ PoS works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have
 ## hack smart contract as blockchain explorers can reveal the transaction data very esaily and it can be crucial an app as shown in article
 
 [Click here](https://medium.com/hackernoon/your-private-solidity-variable-is-not-private-save-it-before-it-becomes-public-52a723f29f5e#:~:text=Your%20%E2%80%9Cprivate%E2%80%9D%20Solidity%20Variable%20is,vasa%20%7C%20HackerNoon.com%20%7C%20Medium&text=You%20have%202%20free%20member%2Donly%20stories%20left%20this%20month.)
+
+## whitelist users for function call
+
+Resources:
+- Code Eater # Merkle Tree Explained Simply | Blockchain | Hindi: [Click here](https://youtu.be/MAY8QvotfXA)
+
+![image](https://user-images.githubusercontent.com/31458531/201322819-e7c522ca-2810-4c25-bbbd-4c3050a2d82c.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201322825-ee465eeb-e1b7-434e-a90c-a3d21acb86d2.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201322838-fe664eaa-7815-4ca7-90e3-40f9d3c52e4e.png)
+
+- Smart Contract Programmer # Learn Solidity (0.5) - Merkle Tree: [Click here](https://youtu.be/n6nEPaE7KZ8)
+- Web3 Club # Create a gasless whitelist to NFT Mint Smart Contract | NFT Presale smart contract: [Click here](https://www.youtube.com/watch?v=j0S6Izd_H4k)
+- Web3 Club # How to use a Merkle Tree for gasless Whitelist/Allowlist in NFT smart contract: [Click here](https://www.youtube.com/watch?v=YDWYrVtqLRU)
