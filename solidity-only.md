@@ -953,3 +953,7 @@ Also,
 
 
 I think that its nearly impossible becoz we store salt with password hashes all the time in all apps. For e.g.,  consider the sample outputs (it shows that we store salt with password hash). BUT NEVER STORE PASSWORD HASH ON SOME PUBLIC DOMAIN COZ THEY CAN LEAD TO PASSWORD HACKS IF ATTACKER IS MORE POWERFUL IN TERMS OF COMPUTATIONAL POWER.
+
+## Which open-source wallet do you personally recommend?
+
+[Click here](https://www.reddit.com/r/ethereum/comments/yt1g8b/which_opensource_wallet_do_you_personally)
