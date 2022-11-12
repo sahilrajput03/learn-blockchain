@@ -922,3 +922,28 @@ Code: [Click here](https://gist.github.com/shobhitic/54250ba4519052385af66b0864b
 - `eth_decrypt` and `eth_getEncryptionPublicKey`: [Click here](https://docs.metamask.io/guide/rpc-api.html#eth-decrypt-deprecated)
 - Official Medium Artice Declaring Deprecation: [Click here](https://medium.com/metamask/metamask-api-method-deprecation-2b0564a84686)
 - Stack Exchange: [1](https://ethereum.stackexchange.com/questions/94158/why-doesnt-web3-js-metamask-have-a-decrypt-with-private-key-function-yet?rq=1), [2](https://ethereum.stackexchange.com/questions/49321/how-to-decrypt-an-encrypted-message-using-metamask)
+
+
+## can we store bcrypt hash on public blockchain so that we can allow anyone to verify as the owner just from frontend only by communicating to blockchain?
+
+```bash
+> Sahil Rajput:
+Vincent i read a lot of stackoverflow answer on a topic like:
+
+Q. Can a person reverse engineer plaintext password from a given password hash?
+
+WHY? I am thinking to store password hash on the blockchain within the smart contract.
+
+WHY? Becoz it would provide me user authentication in browser directly.
+
+> Sahil Rajput:
+Actually I want to make this application and want to know if I can make the authentication process just with smart contract (without any backend)?
+
+> Sahil Rajput:
+I got the my answer from this amazing StackOverflow answer  after reading more than 5 StackOverflow questions..
+
+And I think its BAD IDEA to store password hash on blockchain.
+
+Source: https://security.stackexchange.com/a/3993
+````
+
