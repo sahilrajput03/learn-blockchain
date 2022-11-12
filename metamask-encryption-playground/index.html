@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+		<script src="node_modules/web3/dist/web3.min.js"></script>
+	</head>
+	<body>
+		Hello
+		<script>
+			let acc
+			let accs
+			void (async function () {
+				if (!window.ethereum) return alert('window.ethereum is undefined')
+
+				// 1. connect to metamask
+				// await window.ethereum.request('eth_requestAccounts')
+				await window.ethereum.request({ method: 'eth_requestAccounts' });
+				const web3 = new Web3(window.ethereum)
+
+				accs = await web3.eth.getAccounts()
+				acc = accs[0]
+				console.log('accounts?', accs)
+			})()
+		</script>
+	</body>
+</html>
