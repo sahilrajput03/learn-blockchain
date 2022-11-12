@@ -1,15 +1,33 @@
 # Learn Solidity
 
-**project ideas:**
-- (fungible/non-fungible tokens?): ecommerce app
-- (fungible/non-fungible tokens?): social media app
-- (non-fungible tokens standard): car resale business so we can have nfts of cars (using chasi id)
-- (non-fungible tokens standard): concert seats (becoz seats are unique in themselves as they are not interchangeable with each other)
+- Binary 8 digits: 1111 1111    { 2^ (8) = 256} => 1 Byte comprises of 8 chars (0/1)
+- Hex: 2 digits: ff             {16^ (2) = 256} => 1 Byte comprises of 2 chars (0/1/2/3/.../f)
+
+**Project Ideas:**
+- Ecommerce app (FT/NFT/SFT?)
+- Social media app (FT+NFT)
+- Car resale business so we can have nfts of cars (using chasi id) (NFT)
+- Concert seats (becoz seats are unique in themselves as they are not interchangeable with each other) (NFT)
+- FIR booking app like they have with on Fiorzabad as in news (NFT)
+- House Wwnership on Blockchain i.e., Registr/Land Records
+- 12 Months Kitty Funds (wit staking interests)
+- Fake trading app, i.e., it allows you trade with pseudo tokens and you can get have portfolio build of your own for showing to people how good are you. Baisc idea is that you get 1,000rs. each month. And on subsequent month you get +500Rs. to this account. YIkes!!
+- rock paper scissor game deployment (using FT/NFT?)
+
+**Use cases of web3 by Shobit (Web3Club)**
+- 1 - Transfer money (USDC, DAI, etc.)
+- 2 - Permissionless loans (AAVE, MakerDAO, etc.)
+- 3 - Permissionless trading (Uniswap, Sushiswap, etc.)
+- 4 - Record of ownership (NFT, Sould bound tokens, etc.)
+
+And these are on-chain things. You can mix them with web2
 
 you can sort now..
 
 **Quick Links:**
+- Sharing docs with ipfs and with encryption: [Click here](https://mycoralhealth.medium.com/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c)
 - **❤️ OpenZeppelin Wizard:** [Click here](https://wizard.openzeppelin.com/)
+- **Commentary on ERC1155 by Sahil** [Click here](https://gist.github.com/sahilrajput03/c201c67b3ba191c08fdb7ad9879d0b4c)
 - **Commentary on Token Comparisons:** [Click here](https://gist.github.com/sahilrajput03/b43608c241ac41d7c736b5fcd4a3f11f)
 - **Commentary on ERC20 by Sahil** [Click here](https://gist.github.com/sahilrajput03/9e596c7d645f7d5d40e93baae71982c7)
 - **Commentary on ERC721 by Sahil** [Click here](https://gist.github.com/sahilrajput03/3d0536338bf52c2ecd0c7f1177b2df9d)
@@ -37,6 +55,13 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- Do the homepage notes tasks from mobile
+- Do the task of vincent on telegram
+- DO THIS erc1155 video: [Click here](https://youtu.be/J4p1sdo3Rz4)
+- Learn what, how and implement flash loans.
+- Learn what, how and implement upgradable smart contracts.
+- Make ppt on these applications  and ui's etc for these projects
+- Make a ppt on applications(/and challenges) of blockchain and add 5 usecases of linkedin + FIR application as Firozabad did + Hourse Ownershit (as suggested by Sanddep Nailwal)
 - What is DAO's?
     - [1](https://cointelegraph.com/daos-for-beginners/what-is-a-dao)
     - [2](https://www.investopedia.com/tech/what-dao/#:~:text=A%20DAO%20initially%20raises%20capital,value%20to%20raise%20more%20capital.)
@@ -757,3 +782,143 @@ Source: [Docs](https://academy.binance.com/en/articles/connecting-metamask-to-bi
 ## Ticker of Binance Coin is BNB (not BSC)
 
 ![image](https://user-images.githubusercontent.com/31458531/200436032-49806343-3c87-4055-b06d-5eb933aa5439.png)
+
+## polygon
+
+![image](https://user-images.githubusercontent.com/31458531/200537979-46122ae6-5224-4460-a27a-0b4c56edec5a.png)
+
+- @youtube: Sandeep Nailwal (Polygon Co-founder): 🥰 ❣ 💓 ❥ 💑 💜 [Talk at GenesisBlockConference](https://www.youtube.com/watch?v=0PPE9jXgnUE)
+
+- @youtube: India’s first unicorn protocol: Matic a.k.a Polygon: [Click here](https://www.youtube.com/watch?v=QvQ6elkV1kM)
+
+You can deploy your ethereum contract to polygon network within 15 mins ~Sandeep Nailwal
+
+
+## Binance sidechain?
+
+Official Article by BNB: [Click here](https://www.binance.com/en/news/top/7213400)
+
+- Blockchain Scalability - Sidechains and Payment Channels: [Click here](https://academy.binance.com/en/articles/blockchain-scalability-sidechains-and-payment-channels)
+
+## blockchain trillema
+
+You can have only two of these entities at a time with blockchain.
+
+![image](https://user-images.githubusercontent.com/31458531/200625587-f556a8ff-c373-45d6-99aa-2b8422890558.png)
+
+## companies using polygon blockchain
+
+- A prediction market company: ![image](https://user-images.githubusercontent.com/31458531/200627963-fa823ae6-45dc-4810-9840-a4d003638f33.png)
+
+- Aave: ![image](https://user-images.githubusercontent.com/31458531/200628196-b86cf7b7-d371-4346-9bd4-331c90d63ede.png)
+
+- Instadap (Indian Booming Startup in crypto)
+
+## Ethereum philosophy page
+
+https://ethereum.foundation/philosophy
+
+## blue chip cryptos?
+
+![image](https://user-images.githubusercontent.com/31458531/200641335-ccdd5b96-cc9c-4415-a566-a4c4b8713d94.png)
+
+## DAO ?
+
+![image](https://user-images.githubusercontent.com/31458531/201073170-51cdfab5-31ec-402b-ac96-723995d4987a.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201073608-b3487120-1a55-45b3-ae89-2141d332d771.png)
+
+### "The DAO" Attack
+
+![image](https://user-images.githubusercontent.com/31458531/201074756-9c3f2c69-2367-45dc-8fb0-f2de47b4ea65.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201075667-a887d486-62e8-4320-8df0-4cace15eb714.png)
+
+
+## Bitcoin blockchain also made a hardforked as well
+
+![image](https://user-images.githubusercontent.com/31458531/201076583-3aef1fb6-e348-4197-a955-ff4b567a7b0a.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201076833-78fb46dc-1db0-407a-8bac-fb5c249ad4c0.png)
+
+## soft forks
+
+![image](https://user-images.githubusercontent.com/31458531/201077715-905023f0-7c2a-4eed-8e3f-184ea518d661.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201078713-73d640b4-3fe9-4208-a97f-9a073cf9f91e.png)
+
+## sharding
+
+![image](https://user-images.githubusercontent.com/31458531/201079913-b67bca03-3e81-4e60-92c8-84152899caad.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201079963-599e3a92-df9c-49fe-8380-4727280116ee.png)
+
+## ethereum 2.0 or Serenity
+
+![image](https://user-images.githubusercontent.com/31458531/201080155-5e7011f7-2f6a-4b77-832c-d939148034d5.png)
+
+Below image shows that how a validator stackes his eth (i.e, min 32ETH) to become a validator(there's no concept of miner in PoS) and thus he/she can earn the txns fees for the tx it completes successfully.
+
+![image](https://user-images.githubusercontent.com/31458531/201081192-450e621a-4dc3-4d07-a3fa-67fa03d828e9.png)
+
+Also, in case if the validator try to tamper with with block then all his stacke will not be returned and also the txn fees will not be offered:
+
+![image](https://user-images.githubusercontent.com/31458531/201081513-c761880a-6a09-4418-8a7e-68a9f3ea9447.png)
+
+
+PoS works on **Risk and Rewards** basis i.e., who ever stakes more ETH will have  more probability of getting selected in the opportunity to validate a block. (whereas in PoW it happens with the competitive war between nodes).
+
+![image](https://user-images.githubusercontent.com/31458531/201082309-a9797d4f-a948-4a8c-8c96-9f0a693ea555.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201082462-856d54f6-22a1-4b34-aa95-3cfeaf8885fc.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201082864-cf3d3100-dfe5-4667-837d-7676b052ab27.png)
+
+## Making a function payable makes it red coloured in remix
+
+![image](https://user-images.githubusercontent.com/31458531/201092518-e3851c17-3154-4fb2-804d-f6caf702b599.png)
+
+## IPFS indepths?
+- IPFS can't really enforce nodes to delete an uploaded file, isn't that a problem?
+    - Stackoverflow :[Click here](https://stackoverflow.com/questions/69823854/ipfs-cant-really-enforce-nodes-to-delete-an-uploaded-file-isnt-that-a-problem)
+    - Hacker News: [Click here](https://news.ycombinator.com/item?id=19649893)
+
+- Are CID different for the same file but uploaded by 2 users in IPFS?: [Click here](https://stackoverflow.com/questions/59183147/are-cid-different-for-the-same-file-but-uploaded-by-2-users-in-ipfs)
+    - tldr: Yes they produce same hash
+
+## Will same contract consume different gas in different network?
+
+![image](https://user-images.githubusercontent.com/31458531/201174503-473d6965-936c-4415-948d-0243f177e226.png)
+
+## hack smart contract as blockchain explorers can reveal the transaction data very esaily and it can be crucial an app as shown in article
+
+[Click here](https://medium.com/hackernoon/your-private-solidity-variable-is-not-private-save-it-before-it-becomes-public-52a723f29f5e#:~:text=Your%20%E2%80%9Cprivate%E2%80%9D%20Solidity%20Variable%20is,vasa%20%7C%20HackerNoon.com%20%7C%20Medium&text=You%20have%202%20free%20member%2Donly%20stories%20left%20this%20month.)
+
+## whitelist users for function call
+
+Resources:
+- Code Eater # Merkle Tree Explained Simply | Blockchain | Hindi: [Click here](https://youtu.be/MAY8QvotfXA)
+
+![image](https://user-images.githubusercontent.com/31458531/201322819-e7c522ca-2810-4c25-bbbd-4c3050a2d82c.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201322825-ee465eeb-e1b7-434e-a90c-a3d21acb86d2.png)
+
+![image](https://user-images.githubusercontent.com/31458531/201322838-fe664eaa-7815-4ca7-90e3-40f9d3c52e4e.png)
+
+- Smart Contract Programmer # Learn Solidity (0.5) - Merkle Tree: [Click here](https://youtu.be/n6nEPaE7KZ8)
+- Web3 Club # Create a gasless whitelist to NFT Mint Smart Contract | NFT Presale smart contract: [Click here](https://www.youtube.com/watch?v=j0S6Izd_H4k)
+- Web3 Club # How to use a Merkle Tree for gasless Whitelist/Allowlist in NFT smart contract: [Click here](https://www.youtube.com/watch?v=YDWYrVtqLRU)
+- Freecodecamp.org # Article # How to Implement a Whitelist in Smart Contracts (ERC-721 NFT, ERC-1155, and others): [Click here](https://www.freecodecamp.org/news/how-to-implement-whitelist-in-smartcontracts-erc-721-nft-erc-1155-and-others/)
+
+
+## hardforking with hardhat with made easy
+
+- Web3 Club # Faucet not working?! Fork blockchain with a local node for testing: [Click here](https://youtu.be/VGZb2orvYJE)
+
+Code: [Click here](https://gist.github.com/shobhitic/54250ba4519052385af66b0864b712a2)
+
+## metamask deprecating its encrypt/decrypt apis
+
+- `eth_decrypt` and `eth_getEncryptionPublicKey`: [Click here](https://docs.metamask.io/guide/rpc-api.html#eth-decrypt-deprecated)
+- Official Medium Artice Declaring Deprecation: [Click here](https://medium.com/metamask/metamask-api-method-deprecation-2b0564a84686)
+- Stack Exchange: [1](https://ethereum.stackexchange.com/questions/94158/why-doesnt-web3-js-metamask-have-a-decrypt-with-private-key-function-yet?rq=1), [2](https://ethereum.stackexchange.com/questions/49321/how-to-decrypt-an-encrypted-message-using-metamask)
