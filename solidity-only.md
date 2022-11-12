@@ -947,3 +947,9 @@ And I think its BAD IDEA to store password hash on blockchain.
 Source: https://security.stackexchange.com/a/3993
 ````
 
+Also,
+
+![image](https://user-images.githubusercontent.com/31458531/201482134-67ec7b08-e420-4a48-85e5-16f38a482aef.png)
+
+
+I think that its nearly impossible becoz we store salt with password hashes all the time in all apps. For e.g.,  consider the sample outputs (it shows that we store salt with password hash). BUT NEVER STORE PASSWORD HASH ON SOME PUBLIC DOMAIN COZ THEY CAN LEAD TO PASSWORD HACKS IF ATTACKER IS MORE POWERFUL IN TERMS OF COMPUTATIONAL POWER.
