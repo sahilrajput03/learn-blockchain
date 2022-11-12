@@ -916,3 +916,9 @@ Resources:
 - Web3 Club # Faucet not working?! Fork blockchain with a local node for testing: [Click here](https://youtu.be/VGZb2orvYJE)
 
 Code: [Click here](https://gist.github.com/shobhitic/54250ba4519052385af66b0864b712a2)
+
+## metamask deprecating its encrypt/decrypt apis
+
+- `eth_decrypt` and `eth_getEncryptionPublicKey`: [Click here](https://docs.metamask.io/guide/rpc-api.html#eth-decrypt-deprecated)
+- Official Medium Artice Declaring Deprecation: [Click here](https://medium.com/metamask/metamask-api-method-deprecation-2b0564a84686)
+- Stack Exchange: [1](https://ethereum.stackexchange.com/questions/94158/why-doesnt-web3-js-metamask-have-a-decrypt-with-private-key-function-yet?rq=1), [2](https://ethereum.stackexchange.com/questions/49321/how-to-decrypt-an-encrypted-message-using-metamask)
