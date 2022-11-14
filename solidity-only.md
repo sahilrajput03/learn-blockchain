@@ -986,3 +986,5 @@ From following Smart Contract Programmer:
 - There are two types of upgradable smart contracts
     - TUP (Transparent Upgradable Proxy)
     - UUPS (Universal Upgradable Proxy Standard)
+
+EIP 1822 - UUPS: [Click here](https://eips.ethereum.org/EIPS/eip-1822)
