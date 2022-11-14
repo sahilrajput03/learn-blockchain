@@ -1004,7 +1004,7 @@ Demonstraction (from smart conract programmer):
 ![image](https://user-images.githubusercontent.com/31458531/201598380-5d07c838-77d8-4007-af89-c90306bd74ae.png)
 
 
-- **Amazing UTXO concept - Asked in interview**
+## Amazing UTXO concept - Asked in interview
 
 Read this amazing article: Investopedia: [Click here](https://www.investopedia.com/terms/u/utxo.asp)
 
