@@ -976,6 +976,13 @@ By Smart Contract Programmer: [Click here](https://youtu.be/xv9OmztShIw)
 
 ## upgradable smart contracts
 
-- Smar contract programmer: [Click here](https://www.youtube.com/watch?v=JgSj7IiE4jA)
+- Smart contract programmer: [Click here](https://www.youtube.com/watch?v=JgSj7IiE4jA)
 - Code Eater: [Click here](https://www.youtube.com/watch?v=uqzM_KAMvEw)
 - Web3 Club: [Click here](https://www.youtube.com/watch?v=bPOOvyVpI9U&t=330s)
+
+From following Smart Contract Programmer:
+
+- We cannot have constructors that set state variables in Smart Contract of a upgradable smart contract.
+- There are two types of upgradable smart contracts
+    - TUP (Transparent Upgradable Proxy)
+    - UUPS (Universal Upgradable Proxy Standard)
