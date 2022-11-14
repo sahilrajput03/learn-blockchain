@@ -957,3 +957,9 @@ I think that its nearly impossible becoz we store salt with password hashes all 
 ## Which open-source wallet do you personally recommend?
 
 [Click here](https://www.reddit.com/r/ethereum/comments/yt1g8b/which_opensource_wallet_do_you_personally)
+
+## what is type() function in solidity?
+
+E.g., `type(I).interfaceId`
+
+Source: [Click here](https://ethereum.stackexchange.com/questions/98669/solidity-interface-erc-165-by-openzeppelin)
