@@ -988,3 +988,6 @@ From following Smart Contract Programmer:
     - UUPS (Universal Upgradable Proxy Standard)
 
 EIP 1822 - UUPS: [Click here](https://eips.ethereum.org/EIPS/eip-1822)
+
+From following Web3 Club (**uses UUPS**):
+- The proxy contract is saves the state of the contract and the implmentation (i.e., all functions) are referenced to our current target contract (which can can change address of using **setURI(string newuri)** method which has modifier `onlyOwner`). Also state in the target contract never changes but it makes changes in the proxy contract only.
