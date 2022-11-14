@@ -61,7 +61,7 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
-- Make gist for notes of evm Assembly:
+- Make gist for notes of evm Assembly **(asked twice in interviews)**:
     - [1](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
     - [2](https://jamesbachini.com/assembly-in-solidity/), has a list of good number of useful opcodes.
     - [3 - Tutorials Point](https://www.tutorialspoint.com/solidity/solidity_assembly.htm)
