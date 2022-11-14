@@ -973,3 +973,9 @@ Source: [Click here](https://ethereum.stackexchange.com/questions/98669/solidity
 ## amazing features of solidity 0.8 (Released in Dec, 2020)
 
 By Smart Contract Programmer: [Click here](https://youtu.be/xv9OmztShIw)
+
+## upgradable smart contracts
+
+- Smar contract programmer: [Click here](https://www.youtube.com/watch?v=JgSj7IiE4jA)
+- Code Eater: [Click here](https://www.youtube.com/watch?v=uqzM_KAMvEw)
+- Web3 Club: [Click here](https://www.youtube.com/watch?v=bPOOvyVpI9U&t=330s)
