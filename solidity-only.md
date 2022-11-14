@@ -976,6 +976,8 @@ By Smart Contract Programmer: [Click here](https://youtu.be/xv9OmztShIw)
 
 ## upgradable smart contracts
 
+**Visit the notes made from Official OpenZeppelin's Video: [Click here](https://gist.github.com/sahilrajput03/97f72472a4d250100dd9faa8443c2942)**
+
 - Smart contract programmer: [Click here](https://www.youtube.com/watch?v=JgSj7IiE4jA)
 - Code Eater: [Click here](https://www.youtube.com/watch?v=uqzM_KAMvEw)
 - Web3 Club: [Click here](https://www.youtube.com/watch?v=bPOOvyVpI9U&t=330s)
