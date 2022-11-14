@@ -994,6 +994,4 @@ Demonstraction (from smart conract programmer):
 
 - **HOW PROXY, FALLBACK and DELEGATE CALL WORKS?** 
 
-    ![image](https://user-images.githubusercontent.com/31458531/201592355-e750619d-e2ec-45c9-ae6b-cc37b2fa3ff3.png)
-
-    ![image](https://user-images.githubusercontent.com/31458531/201592387-0b873fff-04be-4193-94b5-842cd70b1b19.png)
+![image](https://user-images.githubusercontent.com/31458531/201598380-5d07c838-77d8-4007-af89-c90306bd74ae.png)
