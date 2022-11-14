@@ -979,15 +979,21 @@ By Smart Contract Programmer: [Click here](https://youtu.be/xv9OmztShIw)
 - Smart contract programmer: [Click here](https://www.youtube.com/watch?v=JgSj7IiE4jA)
 - Code Eater: [Click here](https://www.youtube.com/watch?v=uqzM_KAMvEw)
 - Web3 Club: [Click here](https://www.youtube.com/watch?v=bPOOvyVpI9U&t=330s)
+- **EIP 1822 - UUPS:** [Click here](https://eips.ethereum.org/EIPS/eip-1822)
 
 From following Smart Contract Programmer:
-
 - We cannot have constructors that set state variables in Smart Contract of a upgradable smart contract.
 - There are two types of upgradable smart contracts
     - TUP (Transparent Upgradable Proxy)
     - UUPS (Universal Upgradable Proxy Standard)
 
-EIP 1822 - UUPS: [Click here](https://eips.ethereum.org/EIPS/eip-1822)
-
 From following Web3 Club (**uses UUPS**):
 - The proxy contract is saves the state of the contract and the implmentation (i.e., all functions) are referenced to our current target contract (which can can change address of using **setURI(string newuri)** method which has modifier `onlyOwner`). Also state in the target contract never changes but it makes changes in the proxy contract only.
+
+Demonstraction (from smart conract programmer):
+
+- **HOW PROXY, FALLBACK and DELEGATE CALL WORKS?** 
+
+    ![image](https://user-images.githubusercontent.com/31458531/201592355-e750619d-e2ec-45c9-ae6b-cc37b2fa3ff3.png)
+
+    ![image](https://user-images.githubusercontent.com/31458531/201592387-0b873fff-04be-4193-94b5-842cd70b1b19.png)
