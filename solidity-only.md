@@ -969,3 +969,7 @@ I think that its nearly impossible becoz we store salt with password hashes all 
 E.g., `type(I).interfaceId`
 
 Source: [Click here](https://ethereum.stackexchange.com/questions/98669/solidity-interface-erc-165-by-openzeppelin)
+
+## amazing features of solidity 0.8 (Released in Dec, 2020)
+
+By Smart Contract Programmer: [Click here](https://youtu.be/xv9OmztShIw)
