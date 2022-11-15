@@ -1036,3 +1036,6 @@ Recommended by Web3 Club and Eath the blocks
 
 - Web3 Club: Rainbow Kit Integration Tutorial - Coinbase, Metamask, WalletConnect Link Mobile Wallet with Website: [Click here](https://www.youtube.com/watch?v=ibLK_OIOij0)
 - EAT THE BLOCKS: The Best Way To Connect A Wallet? Rainbow Kit: The Best Way To Connect A Wallet? Rainbow Kit [Click here](https://www.youtube.com/watch?v=EWYzbwRPZSs)
+
+**Wagmi: React Hooks for Ethereum: 3.3k** [Github](https://github.com/wagmi-dev/wagmi)
+
