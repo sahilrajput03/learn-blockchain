@@ -31,6 +31,7 @@ And these are on-chain things. You can mix them with web2
 you can sort now..
 
 **Quick Links:**
+- CryptoZombies: [Click here](https://cryptozombies.io/)
 - Sharing docs with ipfs and with encryption: [Click here](https://mycoralhealth.medium.com/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c)
 - **❤️ OpenZeppelin Wizard:** [Click here](https://wizard.openzeppelin.com/)
 - **Commentary on ERC1155 by Sahil** [Click here](https://gist.github.com/sahilrajput03/c201c67b3ba191c08fdb7ad9879d0b4c)
