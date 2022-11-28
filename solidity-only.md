@@ -62,6 +62,7 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- **Learn Etherjs from CodeEater: [Click here](https://youtu.be/FIiekfY6q7Y)**
 - Make gist for notes of evm Assembly **(asked twice in interviews)**:
     - [1](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
     - [2](https://jamesbachini.com/assembly-in-solidity/), has a list of good number of useful opcodes.
