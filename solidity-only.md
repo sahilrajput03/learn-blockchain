@@ -1047,3 +1047,9 @@ Recommended by Web3 Club and Eath the blocks
 Source: [Click here](https://www.quora.com/What-is-the-difference-between-Binance-BNB-and-Smart-Chain)
 
 ![image](https://user-images.githubusercontent.com/31458531/204727079-2710c960-463f-47ae-9ef7-8a25f78b8baa.png)
+
+## RBI indian rupee as crypto currency
+
+- [yourstory](https://yourstory.com/the-decrypting-story/rbi-launch-digital-rupee-december-1-india)
+- [timesOfIndia](https://timesofindia.indiatimes.com/business/india-business/rbi-to-start-pilot-of-retail-digital-rupee-on-december-1/articleshow/95855041.cms)
+- [mint](https://www.livemint.com/news/india/rbi-to-launch-retail-digital-rupee-pilot-on-1-december-11669719134159.html)
