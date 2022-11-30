@@ -1041,3 +1041,9 @@ Recommended by Web3 Club and Eath the blocks
 
 **Wagmi: React Hooks for Ethereum: 3.3k** [Github](https://github.com/wagmi-dev/wagmi)
 
+
+## BSC vs. BNB?
+
+Source: [Click here](https://www.quora.com/What-is-the-difference-between-Binance-BNB-and-Smart-Chain)
+
+![image](https://user-images.githubusercontent.com/31458531/204727079-2710c960-463f-47ae-9ef7-8a25f78b8baa.png)
