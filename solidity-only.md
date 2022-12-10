@@ -62,6 +62,7 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- todo watch this https://www.binance.com/en/live/video?roomId=2101900
 - Just do the rainbox wallet imtegration tutorial @ telegram web3 vhannel video.
 - **Learn Etherjs from CodeEater: [Click here](https://youtu.be/FIiekfY6q7Y)**
 - Make gist for notes of evm Assembly **(asked twice in interviews)**:
