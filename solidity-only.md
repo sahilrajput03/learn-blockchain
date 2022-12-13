@@ -62,6 +62,7 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- [The Polygon Thesis: Strategic Focus on ZK Technology as the Next Major Chapter for Polygon; $1B Treasury Allocation](https://polygon.technology/blog/the-polygon-thesis-strategic-focus-on-zk-technology-as-the-next-major-chapter-for-polygon-1b-treasury-allocation)
 - todo watch this https://www.binance.com/en/live/video?roomId=2101900
 - Just do the rainbox wallet imtegration tutorial @ telegram web3 vhannel video.
 - **Learn Etherjs from CodeEater: [Click here](https://youtu.be/FIiekfY6q7Y)**
