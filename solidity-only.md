@@ -62,6 +62,7 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- Read official article from Etherscan.io: [Click here](https://info.etherscan.com/newsletter/b34.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_block_34)
 - Course by Code Eater (probably like recorded class with below projects): [Click here](https://youtu.be/1VK5bHHvSXE). Also there would be in-class and after class assignments. Classes in zoom. Starts from 7th JAN. 4 Weeks course. 3-3 hour no saurday and sunday (totoal 25 hours course).
     - **5 Full Stack Blockchain Projects**
     1. Voting Decentralized
