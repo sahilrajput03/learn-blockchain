@@ -62,7 +62,7 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
-- Course by Code Eater (probably like recorded class with below projects): [Click here](https://youtu.be/1VK5bHHvSXE)
+- Course by Code Eater (probably like recorded class with below projects): [Click here](https://youtu.be/1VK5bHHvSXE). Also there would be in-class and after class assignments. Classes in zoom.
     - **5 Full Stack Blockchain Projects**
     1. Voting Decentralized
     2. Decentralized Autonomous Organization
