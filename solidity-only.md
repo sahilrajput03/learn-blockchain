@@ -62,6 +62,13 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
+- Course by Code Eater (probably like recorded class with below projects): [Click here](https://youtu.be/1VK5bHHvSXE), 5 Full Stack Blockchain Projects
+    - Voting Decentralized
+    - Decentralized Autonomous Organization
+    - Decentralized wallet (like Metamask)
+    - Two smart contract project
+        - Twitter Smart contract
+        - ERC20 Tokens
 - [The Polygon Thesis: Strategic Focus on ZK Technology as the Next Major Chapter for Polygon; $1B Treasury Allocation](https://polygon.technology/blog/the-polygon-thesis-strategic-focus-on-zk-technology-as-the-next-major-chapter-for-polygon-1b-treasury-allocation)
 - todo watch this https://www.binance.com/en/live/video?roomId=2101900
 - Just do the rainbox wallet imtegration tutorial @ telegram web3 vhannel video.
