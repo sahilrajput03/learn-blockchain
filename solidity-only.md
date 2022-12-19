@@ -66,7 +66,7 @@ you can sort now..
     - **5 Full Stack Blockchain Projects**
     1. Voting Decentralized
     2. Decentralized Autonomous Organization
-    3. Decentralized wallet (like Metamask)
+    3. Decentralized wallet (like Metamask, would not be a chrome extension but a web app)
     4. Twitter Smart contract (Smart contract project)
     5. ERC20 Tokens (Smart contract project)
 - [The Polygon Thesis: Strategic Focus on ZK Technology as the Next Major Chapter for Polygon; $1B Treasury Allocation](https://polygon.technology/blog/the-polygon-thesis-strategic-focus-on-zk-technology-as-the-next-major-chapter-for-polygon-1b-treasury-allocation)
