@@ -62,7 +62,7 @@ you can sort now..
 - Blockchain Engineer - (Portal Fantasy)
 
 **Todo:**
-- Course by Code Eater (probably like recorded class with below projects): [Click here](https://youtu.be/1VK5bHHvSXE). Also there would be in-class and after class assignments. Classes in zoom. Starts from 7th JAN. 4 Weeks course. 3-3 hour no saurday and sunday.
+- Course by Code Eater (probably like recorded class with below projects): [Click here](https://youtu.be/1VK5bHHvSXE). Also there would be in-class and after class assignments. Classes in zoom. Starts from 7th JAN. 4 Weeks course. 3-3 hour no saurday and sunday (totoal 25 hours course).
     - **5 Full Stack Blockchain Projects**
     1. Voting Decentralized
     2. Decentralized Autonomous Organization
