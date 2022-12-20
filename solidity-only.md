@@ -1064,3 +1064,7 @@ Source: [Click here](https://www.quora.com/What-is-the-difference-between-Binanc
 - [yourstory](https://yourstory.com/the-decrypting-story/rbi-launch-digital-rupee-december-1-india)
 - [timesOfIndia](https://timesofindia.indiatimes.com/business/india-business/rbi-to-start-pilot-of-retail-digital-rupee-on-december-1/articleshow/95855041.cms)
 - [mint](https://www.livemint.com/news/india/rbi-to-launch-retail-digital-rupee-pilot-on-1-december-11669719134159.html)
+
+## Trading bot with wazirx?
+
+![image](https://user-images.githubusercontent.com/31458531/208678676-85547515-6711-43e8-9c06-d63b8f3260e8.png)
