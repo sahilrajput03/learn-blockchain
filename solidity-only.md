@@ -1069,6 +1069,6 @@ Source: [Click here](https://www.quora.com/What-is-the-difference-between-Binanc
 
 ![image](https://user-images.githubusercontent.com/31458531/208678676-85547515-6711-43e8-9c06-d63b8f3260e8.png)
 
-## why 1% in 51%
+## why 1% in 51% in concensus attack
 
 [Click here](https://crypto.stackexchange.com/questions/97740/why-1-in-51-attack-on-blockchain-network)
