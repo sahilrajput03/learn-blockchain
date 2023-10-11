@@ -1,9 +1,7 @@
 # Learn Solidity
 
 **Youtube Channels:**
-- Smart Contract Programmer: [Click here](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
-- Code Eater: [Click here](https://www.youtube.com/c/CodeEater21)
-- Web3  Club: [Click here](https://www.youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)
+- Search for `#Blockchain` on this page: [Click here](https://github.com/sahilrajput03/sahilrajput03/blob/master/courses-list.md)
 
 **Binary, Hex, Utf-8?**
 - Binary 8 digits: 1111 1111    { 2^ (8) = 256} => 1 Byte comprises of 8 chars (0/1)
