@@ -3,6 +3,9 @@
 **Youtube Channels:**
 - Search for `#Blockchain` on this page: [Click here](https://github.com/sahilrajput03/sahilrajput03/blob/master/courses-list.md)
 
+**People:**
+- Ravi Pal: [Click here](https://www.linkedin.com/in/ravi-pal-0908a0179/) (interesting linkedin portfolio of blockchain)
+
 **Binary, Hex, Utf-8?**
 - Binary 8 digits: 1111 1111    { 2^ (8) = 256} => 1 Byte comprises of 8 chars (0/1)
 - Hex: 2 digits: ff             {16^ (2) = 256} => 1 Byte comprises of 2 chars (0/1/2/3/.../f)
