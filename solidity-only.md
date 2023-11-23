@@ -1,5 +1,7 @@
 # Learn Solidity
 
+**How Much Solidity Developers Make? (23 Nov, 2023)**: [Click here](https://youtu.be/mdU2hrTEJC8)
+
 **Youtube Channels:**
 - Search for `#Blockchain` on this page: [Click here](https://github.com/sahilrajput03/sahilrajput03/blob/master/courses-list.md)
 
